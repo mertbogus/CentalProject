@@ -1,0 +1,32 @@
+﻿@model List<ResultBannerDto>;
+@{
+    ViewData["Title"] = "Index";
+    int count = 0;
+}
+
+<h3> Öne Çıkan Alan </h3>
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Resim</th>
+        <th>Başlık</th>
+        <th>Açıklama</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        count++;
+        <tr>
+            <td>@count</td>
+            <td><img src="@item.ImageUrl" style="width:50px; height:75px;" /></td>
+            <td>@item.Title</td>
+            <td>@item.Description</td>
+            <td><a asp-action="DeleteBanner" asp-route-id="@item.BannerId" class="btn btn-danger">Sil</a> </td>
+            <td><a asp-action="UpdateBanner" asp-route-id="@item.BannerId" class="btn btn-info">Güncelle</a> </td>
+        </tr>
+    }
+</table>
+
+<a asp-action="CreateBanner" asp-controller="AdminBanner" class="btn btn-primary">Yeni Öne Çıkan Alan Ekle</a>
+

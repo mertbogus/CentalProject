@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\CentalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\controllers\\banneradmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\controllers\\banneradmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\mappings\\bannermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\mappings\\bannermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\views\\banneradmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\views\\banneradmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,16 +49,46 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\BannerAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cental.WebUI\\Views\\BannerAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\BannerAdmin\\Index.cshtml",
+              "RelativeToolTip": "Cental.WebUI\\Views\\BannerAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T12:48:57.638Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Program.cs",
-              "RelativeDocumentMoniker": "Cental.WebUI\\Program.cs",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Program.cs",
-              "RelativeToolTip": "Cental.WebUI\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Title": "BannerAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Controllers\\BannerAdminController.cs",
+              "RelativeDocumentMoniker": "Cental.WebUI\\Controllers\\BannerAdminController.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Controllers\\BannerAdminController.cs",
+              "RelativeToolTip": "Cental.WebUI\\Controllers\\BannerAdminController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T12:07:44.465Z",
+              "WhenOpened": "2025-01-16T12:32:16.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BannerMapping.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Mappings\\BannerMapping.cs",
+              "RelativeDocumentMoniker": "Cental.WebUI\\Mappings\\BannerMapping.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Mappings\\BannerMapping.cs",
+              "RelativeToolTip": "Cental.WebUI\\Mappings\\BannerMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:26:02.123Z",
               "EditorCaption": ""
             }
           ]

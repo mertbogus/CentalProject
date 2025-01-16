@@ -4,11 +4,15 @@ using Cental.DataAccesLayer.Abstract;
 using Cental.DataAccesLayer.Concrete;
 using Cental.DataAccesLayer.Context;
 using Cental.DataAccesLayer.Repositories;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // About service gördüðün zaman about manager sýnýfýndan bir nesne örneði al ve iþlemi onunla yap.
 builder.Services.AddDbContext<CentalContext>();
+
+//auto mapper konfigrasyonu Web UI için. Businneste olsaydý farklý olurdu.
+builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
 builder.Services.AddScoped<IAboutService, AboutManager>();
 builder.Services.AddScoped<IAboutDal, EfAboutDal>();
