@@ -23,8 +23,6 @@ builder.Services.AddScoped<IBannerDal, EfBannerDal>();
 builder.Services.AddScoped<IBranService, BrandManager>();
 builder.Services.AddScoped<IBranDal, EfBrandDal>();
 
-builder.Services.AddScoped(typeof(IGenericDal<>),typeof(GenericRepository<>));
-builder.Services.AddScoped(typeof(IGenericService<>),typeof(GenericManager<>));
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

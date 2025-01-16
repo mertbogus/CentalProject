@@ -19,4 +19,9 @@ html {
 
 body {
   margin-bottom: 60px;
+  
+}
+
+button{
+    border-radius:15px;
 }

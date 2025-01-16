@@ -5,12 +5,2472 @@
       "PackagePath": "staticwebassets\\Cental.WebUI.0d0mwrsr2g.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\404.html",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\READ-ME.txt"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\about.html",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\blog.html",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\car-rent-website-template.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\car-rent-website-template.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\cars.html",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\cars.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\contact.html",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\css\\style.css",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\feature.html",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\feature.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\about-icon-1.png",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\about-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\about-icon-2.png",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\about-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\about-img-1.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\about-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\attachment-img.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\attachment-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\car-1.png",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\car-1.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\car-2.png",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\car-2.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\car-3.png",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\car-3.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\car-4.png",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\car-4.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\fact-bg.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\fact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\features-img.png",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\features-img.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\js\\main.js",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\service.html",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\team.html",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\team.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Cental-1.0.0\\testimonial.html",
+      "PackagePath": "staticwebassets\\Cental-1.0.0\\testimonial.html"
+    },
+    {
       "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\css\\layout-dark.css",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\css\\layout-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\css\\layout-rtl.css",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\css\\layout-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\css\\plugins\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\css\\plugins\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\css\\plugins\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\css\\plugins\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\css\\plugins\\prism-coy.css",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\css\\plugins\\prism-coy.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\feather.eot",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\feather.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\feather.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\feather.ttf",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\feather.woff",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFUZ0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFUZ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVZ0b.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVZ0b.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVp0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVp0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFW50bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFW50bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWJ0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWJ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWZ0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWZ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWp0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWp0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\pct.eot",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\pct.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\pct.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\pct.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\pct.ttf",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\pct.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\fonts\\pct.woff",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\fonts\\pct.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\auth\\auth-logo-dark.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\auth\\auth-logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\auth\\auth-logo.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\auth\\auth-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\auth\\img-auth-big.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\auth\\img-auth-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\browser\\chrome.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\browser\\chrome.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\browser\\firefox.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\browser\\firefox.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\browser\\ie.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\browser\\ie.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\browser\\opera.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\browser\\opera.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\browser\\safari.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\browser\\safari.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\cd-arrow.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\cd-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\complete.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\complete.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-7.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-8.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\gallery-grid\\masonry-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\hover-effect\\triangle.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\hover-effect\\triangle.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\hover-effect\\triangle2.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\hover-effect\\triangle2.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\l1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\l2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\l3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\l4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\l5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\l6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\l6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\mixin.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\mixin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\sl1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\sl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\sl2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\sl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\sl3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\sl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\sl4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\sl4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\sl5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\sl5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\sl6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\sl6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\smixin.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\smixin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\v1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\v2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\v3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\light-box\\v4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\light-box\\v4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\logo-docs.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\logo-docs.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\logo-old.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\logo-old.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\logo-thumb.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\logo-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\maintance\\404.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\maintance\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\maintance\\maintance.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\maintance\\maintance.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\maintance\\sark.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\maintance\\sark.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\maintance\\ship.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\maintance\\ship.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\maintance\\sparcle-1.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\maintance\\sparcle-1.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\maintance\\sparcle-2.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\maintance\\sparcle-2.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\next.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\prev.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\product\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\product\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\profile\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\profile\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\profile\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\profile\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\profile\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\profile\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\profile\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\profile\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\profile\\cover.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\profile\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-7.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\slider\\img-slide-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\ticket\\p1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\ticket\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\ticket\\p2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\ticket\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\ticket\\p3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\ticket\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\ticket\\p4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\ticket\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\ticket\\p5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\ticket\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\user\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\user\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\user\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\user\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\user\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\user\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\user\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\user\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\user\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\user\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\user\\cover.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\user\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\user\\img-avatar-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\user\\img-avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\user\\img-avatar-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\user\\img-avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\user\\img-avatar-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\user\\img-avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\AUSTRALIA.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\AUSTRALIA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\BRAZIL.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\BRAZIL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\GERMANY.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\GERMANY.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\PHONE1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\PHONE1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\PHONE2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\PHONE2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\PHONE3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\PHONE3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\PHONE4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\PHONE4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\UK.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\UK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\USA.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\USA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\blur-bg.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\blur-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\dashborad-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\dashborad-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\dashborad-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\dashborad-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\dashborad-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\dashborad-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\dashborad-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\dashborad-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\dashborad-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\dashborad-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\emoticon.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\emoticon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\img-round1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\img-round1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\p1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\p2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\p3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\p4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\profile-person1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\profile-person1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\slider5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\slider5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\slider6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\slider6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\slider7.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\slider7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\user-blur-bg.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\user-blur-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\wather2bottom.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\wather2bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\watherbottom.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\watherbottom.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\wathernature.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\wathernature.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\watherstar1.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\watherstar1.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\images\\widget\\watherstar2.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\images\\widget\\watherstar2.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\analytics.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\analytics.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\analytics.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\horizontal-menu.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\horizontal-menu.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\pages\\chart-apex.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\pages\\chart-apex.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\pages\\dashboard-main.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\pages\\dashboard-main.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\pages\\google-maps.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\pages\\google-maps.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\pcoded.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\pcoded.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\pcoded.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\pcoded.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\plugins\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\plugins\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\plugins\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\plugins\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\plugins\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\plugins\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\plugins\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\plugins\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\plugins\\prism.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\plugins\\prism.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\uikit.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\uikit.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\uikit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\vendor-all.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\vendor-all.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\js\\vendor-all.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\js\\vendor-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\json\\2500.txt",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\json\\2500.txt"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\json\\cities.json",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\json\\cities.json"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\json\\citynames.json",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\json\\citynames.json"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\assets\\json\\file-upload.php",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\assets\\json\\file-upload.php"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\auth-signin.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\auth-signin.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\auth-signup.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\auth-signup.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_alert.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_alert.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_badges.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_badges.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_breadcrumb-pagination.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_breadcrumb-pagination.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_button.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_button.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_card.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_card.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_carousel.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_collapse.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_extra.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_extra.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_grid.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_grid.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_modal.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_modal.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_progress.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_progress.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_spinner.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_spinner.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_tabs.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_toasts.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_tooltip-popover.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_tooltip-popover.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\bc_typography.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\bc_typography.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\chart-apex.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\chart-apex.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\form_elements.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\form_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\index.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\layout-horizontal.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\layout-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\layout-vertical.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\layout-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\map-google.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\map-google.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\sample-page.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\sample-page.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\dist\\tbl_bootstrap.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\dist\\tbl_bootstrap.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\feather.eot",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\feather.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\feather.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\feather.ttf",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\feather.woff",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFUZ0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFUZ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVZ0b.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVZ0b.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVp0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVp0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFW50bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFW50bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWJ0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWJ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWZ0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWZ0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWp0bbck.woff2",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWp0bbck.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\pct.eot",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\pct.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\pct.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\pct.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\pct.ttf",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\pct.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\fonts\\pct.woff",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\fonts\\pct.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\auth\\auth-logo-dark.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\auth\\auth-logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\auth\\auth-logo.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\auth\\auth-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\auth\\img-auth-big.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\auth\\img-auth-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\browser\\chrome.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\browser\\chrome.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\browser\\firefox.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\browser\\firefox.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\browser\\ie.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\browser\\ie.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\browser\\opera.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\browser\\opera.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\browser\\safari.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\browser\\safari.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\cd-arrow.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\cd-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\complete.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\complete.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-7.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-8.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\gallery-grid\\masonry-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\hover-effect\\triangle.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\hover-effect\\triangle.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\hover-effect\\triangle2.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\hover-effect\\triangle2.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\l1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\l2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\l3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\l4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\l5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\l6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\l6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\mixin.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\mixin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\sl1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\sl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\sl2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\sl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\sl3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\sl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\sl4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\sl4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\sl5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\sl5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\sl6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\sl6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\smixin.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\smixin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\v1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\v2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\v3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\light-box\\v4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\light-box\\v4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\logo-docs.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\logo-docs.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\logo-old.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\logo-old.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\logo-thumb.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\logo-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\maintance\\404.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\maintance\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\maintance\\maintance.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\maintance\\maintance.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\maintance\\sark.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\maintance\\sark.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\maintance\\ship.svg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\maintance\\ship.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\maintance\\sparcle-1.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\maintance\\sparcle-1.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\maintance\\sparcle-2.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\maintance\\sparcle-2.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\next.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\prev.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\product\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\product\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\profile\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\profile\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\profile\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\profile\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\profile\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\profile\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\profile\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\profile\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\profile\\cover.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\profile\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-7.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\slider\\img-slide-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\ticket\\p1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\ticket\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\ticket\\p2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\ticket\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\ticket\\p3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\ticket\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\ticket\\p4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\ticket\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\ticket\\p5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\ticket\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\user\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\user\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\user\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\user\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\user\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\user\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\user\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\user\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\user\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\user\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\user\\cover.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\user\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\user\\img-avatar-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\user\\img-avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\user\\img-avatar-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\user\\img-avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\user\\img-avatar-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\user\\img-avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\AUSTRALIA.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\AUSTRALIA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\BRAZIL.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\BRAZIL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\GERMANY.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\GERMANY.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\PHONE1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\PHONE1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\PHONE2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\PHONE2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\PHONE3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\PHONE3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\PHONE4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\PHONE4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\UK.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\UK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\USA.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\USA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\blur-bg.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\blur-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\dashborad-1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\dashborad-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\dashborad-2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\dashborad-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\dashborad-3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\dashborad-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\dashborad-4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\dashborad-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\dashborad-5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\dashborad-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\emoticon.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\emoticon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\img-round1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\img-round1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\p1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\p2.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\p3.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\p4.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\profile-person1.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\profile-person1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\slider5.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\slider5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\slider6.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\slider6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\slider7.jpg",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\slider7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\user-blur-bg.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\user-blur-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\wather2bottom.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\wather2bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\watherbottom.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\watherbottom.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\wathernature.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\wathernature.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\watherstar1.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\watherstar1.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\widget\\watherstar2.png",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\images\\widget\\watherstar2.png"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\js\\analytics.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\js\\analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\js\\analytics.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\js\\analytics.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\js\\horizontal-menu.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\js\\horizontal-menu.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\js\\pages\\chart-apex.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\js\\pages\\chart-apex.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\js\\pages\\dashboard-main.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\js\\pages\\dashboard-main.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\js\\pages\\google-maps.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\js\\pages\\google-maps.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\js\\pcoded.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\js\\pcoded.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\js\\pcoded.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\js\\pcoded.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\js\\uikit.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\js\\uikit.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\js\\uikit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\js\\vendor-all.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\js\\vendor-all.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\js\\vendor-all.min.js",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\js\\vendor-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\json\\2500.txt",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\json\\2500.txt"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\json\\cities.json",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\json\\cities.json"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\json\\citynames.json",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\json\\citynames.json"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\json\\file-upload.php",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\json\\file-upload.php"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\layout-dark.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\layout-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\layout-rtl.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\layout-rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\settings\\_custom-variables.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\settings\\_custom-variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\settings\\_theme-variables.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\settings\\_theme-variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\_general.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\_general.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\_generic.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\_generic.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\bootstrap-overlay\\_badge.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\bootstrap-overlay\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\bootstrap-overlay\\_button.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\bootstrap-overlay\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\bootstrap-overlay\\_card.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\bootstrap-overlay\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\bootstrap-overlay\\_radiobox-checkbox.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\bootstrap-overlay\\_radiobox-checkbox.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\bootstrap-overlay\\_switches.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\bootstrap-overlay\\_switches.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\dashboard\\_widget.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\dashboard\\_widget.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\font\\_datta-icon.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\font\\_datta-icon.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\font\\_feather.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\font\\_feather.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\font\\_fontawesome.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\font\\_fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\font\\_theme-font.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\font\\_theme-font.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\layouts\\_menu-lite.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\layouts\\_menu-lite.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_authentication.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_authentication.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_fullcalender.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_fullcalender.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_help-desk.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_help-desk.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_icon-lauouts.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_icon-lauouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_image-cropper.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_image-cropper.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_maintaince.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_maintaince.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_pages.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_user.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\pages\\_user.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_bar-rating.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_bar-rating.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_daterange.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_daterange.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_highcharts.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_highcharts.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_lightbox.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_lightbox.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_maxlength.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_maxlength.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_notification.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_notification.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_peitychart.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_peitychart.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_pnotify.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_pnotify.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_rangeslider.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_rangeslider.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_select2.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_select2.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_sweatalert.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_sweatalert.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_tags-input.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_tags-input.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_wizard.scss",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\assets\\scss\\themes\\plugins\\_wizard.scss"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\auth-signin.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\auth-signin.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\auth-signup.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\auth-signup.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_alert.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_alert.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_badges.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_badges.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_breadcrumb-pagination.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_breadcrumb-pagination.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_button.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_button.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_card.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_card.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_carousel.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_collapse.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_extra.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_extra.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_grid.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_grid.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_modal.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_modal.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_progress.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_progress.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_spinner.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_spinner.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_tabs.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_toasts.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_tooltip-popover.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_tooltip-popover.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\bc_typography.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\bc_typography.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\chart-apex.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\chart-apex.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\form_elements.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\form_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\index.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\layout-horizontal.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\layout-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\layout-vertical.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\layout-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\layouts\\footer-bottom-link.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\layouts\\footer-bottom-link.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\layouts\\footer.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\layouts\\footer.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\layouts\\head-bottom-link.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\layouts\\head-bottom-link.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\layouts\\head.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\layouts\\head.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\layouts\\main.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\layouts\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\layouts\\menu-list.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\layouts\\menu-list.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\map-google.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\map-google.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\sample-page.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\sample-page.html"
+    },
+    {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\html\\tbl_bootstrap.html",
+      "PackagePath": "staticwebassets\\flat-able-admin\\src\\html\\tbl_bootstrap.html"
     },
     {
       "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\js\\site.js",
