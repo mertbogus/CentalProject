@@ -1,0 +1,56 @@
+﻿@model UpdateAboutDto
+@{
+    ViewData["Title"] = "UpdateAbout";
+}
+
+<h3>Hakkımızda Güncelleme Sayfası</h3>
+
+<form method="post">
+    
+    <input type="hidden" asp-for="AboutId"/>
+    <label>Vizyonumuz</label>
+    <input type="text" asp-for="Vision" class="form-control" />
+    <br />
+    <label>Misyonumuz</label>
+    <input type="text" asp-for="Mission" class="form-control" />
+    <br />
+    <label>Üst Açıklama</label>
+    <input type="text" asp-for="Description1" class="form-control" />
+    <br />
+    <label>Alt Açıklama</label>
+    <input type="text" asp-for="Description2" class="form-control" />
+    <br />
+    <label>Kuruluş Yılı</label>
+    <input type="number" asp-for="StartYear" class="form-control" />
+    <br />
+    <label>Görsel 1</label>
+    <input type="text" asp-for="ImageUrl" class="form-control" />
+    <br />
+    <label>Görsel 2</label>
+    <input type="text" asp-for="ImageUrl2" class="form-control" />
+    <br />
+    <br />
+    <label>Madde 1</label>
+    <input type="text" asp-for="Item1" class="form-control" />
+    <br />
+    <label>Madde 2</label>
+    <input type="text" asp-for="Item2" class="form-control" />
+    <br />
+    <label>Madde 3</label>
+    <input type="text" asp-for="Item3" class="form-control" />
+    <br />
+    <label>Madde 4</label>
+    <input type="text" asp-for="Item4" class="form-control" />
+    <br />
+    <label>Ad Soyad</label>
+    <input type="text" asp-for="NameSurname" class="form-control" />
+    <br />
+    <label>Unvan</label>
+    <input type="text" asp-for="JobTitle" class="form-control" />
+    <br />
+    <label>Profil Fotoğrafı</label>
+    <input type="text" asp-for="ProfilePicture" class="form-control" />
+    <br />
+    <button class="btn btn-outline-primary">Güncelle</button>
+</form>
+

@@ -1,0 +1,12 @@
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\bin\Debug\net8.0\Cental.EntityLayer.deps.json
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\bin\Debug\net8.0\Cental.EntityLayer.dll
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\bin\Debug\net8.0\Cental.EntityLayer.pdb
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\Cental.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\Cental.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\Cental.EntityLayer.AssemblyInfo.cs
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\Cental.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\Cental.EntityLayer.sourcelink.json
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\Cental.EntityLayer.dll
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\refint\Cental.EntityLayer.dll
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\Cental.EntityLayer.pdb
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\ref\Cental.EntityLayer.dll

@@ -1,0 +1,28 @@
+﻿@model List<ResultAboutDto>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Hakkımızda</h3>
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Vizyon</th>
+        <th>Misyon</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.AboutId</td>
+            <td>@item.Vision</td>
+            <td>@item.Mission</td>
+            <td><a asp-action="DeleteAbout" asp-route-id="@item.AboutId" class="btn btn-danger">Sil</a> </td>
+            <td><a asp-action="UpdateAbout" asp-route-id="@item.AboutId" class="btn btn-info">Güncelle</a> </td>
+        </tr>
+    }
+</table>
+
+<a asp-action="CreateAbout" asp-controller="AdminAbout" class="btn btn-primary">Yeni Hakkımızda Ekle</a>
