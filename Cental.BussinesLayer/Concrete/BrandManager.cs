@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Cental.BussinesLayer.Concrete
 {
-    public class BrandManager : IBranService
+    public class BrandManager : IBrandService
     {
         private readonly IBranDal _branDal;
 

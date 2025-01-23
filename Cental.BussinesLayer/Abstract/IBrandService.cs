@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Cental.BussinesLayer.Abstract
 {
-    public interface IBranService:IGenericService<Brand>
+    public interface IBrandService:IGenericService<Brand>
     {
     }
 }

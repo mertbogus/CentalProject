@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cental.DataAccesLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93590d7fa300dd0e8dda60fa0eed75d49d9353c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ed72ea8ef5fb82437275200978df05ef308e040")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cental.DataAccesLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cental.DataAccesLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,13 @@
 using Cental.BussinesLayer.Abstract;
 using Cental.BussinesLayer.Concrete;
+using Cental.BussinesLayer.Extensions;
+using Cental.BussinesLayer.Validators.BrandValidators;
 using Cental.DataAccesLayer.Abstract;
 using Cental.DataAccesLayer.Concrete;
 using Cental.DataAccesLayer.Context;
 using Cental.DataAccesLayer.Repositories;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,15 +18,9 @@ builder.Services.AddDbContext<CentalContext>();
 //auto mapper konfigrasyonu Web UI için. Businneste olsaydý farklý olurdu.
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
-builder.Services.AddScoped<IAboutService, AboutManager>();
-builder.Services.AddScoped<IAboutDal, EfAboutDal>();
-
-builder.Services.AddScoped<IBannerService, BannerManager>();
-builder.Services.AddScoped<IBannerDal, EfBannerDal>();
-
-builder.Services.AddScoped<IBranService, BrandManager>();
-builder.Services.AddScoped<IBranDal, EfBrandDal>();
-
+//fluent apinin projeye dahil edilmesi. Ýlgili validator dosyanýn bulunmasý //post iþlemi yapmadan önce kontrol etmesi için clientsadapters ekleniyor.
+builder.Services.AddFluentValidationAutoValidation().AddFluentValidationClientsideAdapters().AddValidatorsFromAssemblyContaining<CreateBrandValidator>();
+builder.Services.AddServiceRegistrations();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

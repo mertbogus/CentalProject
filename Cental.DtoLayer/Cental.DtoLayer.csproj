@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Cental.EntityLayer\Cental.EntityLayer.csproj" />
+  </ItemGroup>
+
 </Project>

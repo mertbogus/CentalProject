@@ -57,6 +57,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -197,7 +203,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.EntityLayer\\Cental.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.EntityLayer\\Cental.EntityLayer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

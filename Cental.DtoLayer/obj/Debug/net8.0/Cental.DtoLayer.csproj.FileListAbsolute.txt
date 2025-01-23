@@ -10,3 +10,7 @@ C:\Users\MERT\source\repos\CentalProject\Cental.DtoLayer\obj\Debug\net8.0\Cental
 C:\Users\MERT\source\repos\CentalProject\Cental.DtoLayer\obj\Debug\net8.0\refint\Cental.DtoLayer.dll
 C:\Users\MERT\source\repos\CentalProject\Cental.DtoLayer\obj\Debug\net8.0\Cental.DtoLayer.pdb
 C:\Users\MERT\source\repos\CentalProject\Cental.DtoLayer\obj\Debug\net8.0\ref\Cental.DtoLayer.dll
+C:\Users\MERT\source\repos\CentalProject\Cental.DtoLayer\bin\Debug\net8.0\Cental.EntityLayer.dll
+C:\Users\MERT\source\repos\CentalProject\Cental.DtoLayer\bin\Debug\net8.0\Cental.EntityLayer.pdb
+C:\Users\MERT\source\repos\CentalProject\Cental.DtoLayer\obj\Debug\net8.0\Cental.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\MERT\source\repos\CentalProject\Cental.DtoLayer\obj\Debug\net8.0\Cental.D.F5E5DBFC.Up2Date
