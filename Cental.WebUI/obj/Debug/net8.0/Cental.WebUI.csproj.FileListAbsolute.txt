@@ -275,3 +275,10 @@ C:\Users\MERT\source\repos\CentalProject\Cental.WebUI\bin\Debug\net8.0\FluentVal
 C:\Users\MERT\source\repos\CentalProject\Cental.WebUI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\MERT\source\repos\CentalProject\Cental.WebUI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\MERT\source\repos\CentalProject\Cental.WebUI\obj\Debug\net8.0\Cental.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MERT\source\repos\CentalProject\Cental.WebUI\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\MERT\source\repos\CentalProject\Cental.WebUI\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\MERT\source\repos\CentalProject\Cental.WebUI\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\MERT\source\repos\CentalProject\Cental.WebUI\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\MERT\source\repos\CentalProject\Cental.WebUI\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\MERT\source\repos\CentalProject\Cental.WebUI\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\MERT\source\repos\CentalProject\Cental.WebUI\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
