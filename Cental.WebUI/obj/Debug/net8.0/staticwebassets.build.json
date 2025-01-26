@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k6KQrCkSQ52tJt414lnogo9xyyRYSmVrqXEJaqsDMP0=",
+  "Hash": "w2XGEP5h5barUcFSd8TDzngtrGmTK+EBOY8+RicclC8=",
   "Source": "Cental.WebUI",
   "BasePath": "_content/Cental.WebUI",
   "Mode": "Default",
@@ -8683,8 +8683,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4qvexcgzfe",
-      "Integrity": "HMki/cSQhHgD2YQn/ZWIsmV8nlPITJ8RMVKDYqzXkVQ=",
+      "Fingerprint": "8c8173cji0",
+      "Integrity": "eLM5TTgxen5BDahBSdaKFXtwSLRje/UP0AwxezlyYfs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\flat-able-admin\\src\\assets\\images\\auth\\img-auth-big.jpg"
@@ -48020,7 +48020,7 @@
       ]
     },
     {
-      "Route": "flat-able-admin/src/assets/images/auth/img-auth-big.4qvexcgzfe.jpg",
+      "Route": "flat-able-admin/src/assets/images/auth/img-auth-big.8c8173cji0.jpg",
       "AssetFile": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\flat-able-admin\\src\\assets\\images\\auth\\img-auth-big.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -48030,7 +48030,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "110520"
+          "Value": "726046"
         },
         {
           "Name": "Content-Type",
@@ -48038,11 +48038,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HMki/cSQhHgD2YQn/ZWIsmV8nlPITJ8RMVKDYqzXkVQ=\""
+          "Value": "\"eLM5TTgxen5BDahBSdaKFXtwSLRje/UP0AwxezlyYfs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 17:01:17 GMT"
+          "Value": "Sun, 26 Jan 2025 02:12:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -48052,7 +48052,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4qvexcgzfe"
+          "Value": "8c8173cji0"
         },
         {
           "Name": "label",
@@ -48060,7 +48060,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HMki/cSQhHgD2YQn/ZWIsmV8nlPITJ8RMVKDYqzXkVQ="
+          "Value": "sha256-eLM5TTgxen5BDahBSdaKFXtwSLRje/UP0AwxezlyYfs="
         }
       ]
     },
@@ -48075,7 +48075,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "110520"
+          "Value": "726046"
         },
         {
           "Name": "Content-Type",
@@ -48083,11 +48083,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HMki/cSQhHgD2YQn/ZWIsmV8nlPITJ8RMVKDYqzXkVQ=\""
+          "Value": "\"eLM5TTgxen5BDahBSdaKFXtwSLRje/UP0AwxezlyYfs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 17:01:17 GMT"
+          "Value": "Sun, 26 Jan 2025 02:12:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -48097,7 +48097,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HMki/cSQhHgD2YQn/ZWIsmV8nlPITJ8RMVKDYqzXkVQ="
+          "Value": "sha256-eLM5TTgxen5BDahBSdaKFXtwSLRje/UP0AwxezlyYfs="
         }
       ]
     },

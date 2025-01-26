@@ -7410,8 +7410,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4qvexcgzfe</Fingerprint>
-      <Integrity>HMki/cSQhHgD2YQn/ZWIsmV8nlPITJ8RMVKDYqzXkVQ=</Integrity>
+      <Fingerprint>8c8173cji0</Fingerprint>
+      <Integrity>eLM5TTgxen5BDahBSdaKFXtwSLRje/UP0AwxezlyYfs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\flat-able-admin\src\assets\images\auth\img-auth-big.jpg'))</OriginalItemSpec>

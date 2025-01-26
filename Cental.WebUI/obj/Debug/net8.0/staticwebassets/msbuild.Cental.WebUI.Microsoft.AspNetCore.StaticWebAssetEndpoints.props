@@ -4932,17 +4932,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N38cnjCkUzoVed6YQvv7oUj39as6jPwgSpnmkmvLbS0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19308"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022N38cnjCkUzoVed6YQvv7oUj39as6jPwgSpnmkmvLbS0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 17:01:17 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Cental.WebUI/flat-able-admin/src/assets/images/auth/img-auth-big.4qvexcgzfe.jpg">
+    <StaticWebAssetEndpoint Include="_content/Cental.WebUI/flat-able-admin/src/assets/images/auth/img-auth-big.8c8173cji0.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\flat-able-admin\src\assets\images\auth\img-auth-big.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4qvexcgzfe"},{"Name":"integrity","Value":"sha256-HMki/cSQhHgD2YQn/ZWIsmV8nlPITJ8RMVKDYqzXkVQ="},{"Name":"label","Value":"_content/Cental.WebUI/flat-able-admin/src/assets/images/auth/img-auth-big.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"110520"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HMki/cSQhHgD2YQn/ZWIsmV8nlPITJ8RMVKDYqzXkVQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 17:01:17 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8c8173cji0"},{"Name":"integrity","Value":"sha256-eLM5TTgxen5BDahBSdaKFXtwSLRje/UP0AwxezlyYfs="},{"Name":"label","Value":"_content/Cental.WebUI/flat-able-admin/src/assets/images/auth/img-auth-big.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"726046"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eLM5TTgxen5BDahBSdaKFXtwSLRje/UP0AwxezlyYfs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Jan 2025 02:12:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Cental.WebUI/flat-able-admin/src/assets/images/auth/img-auth-big.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\flat-able-admin\src\assets\images\auth\img-auth-big.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HMki/cSQhHgD2YQn/ZWIsmV8nlPITJ8RMVKDYqzXkVQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"110520"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HMki/cSQhHgD2YQn/ZWIsmV8nlPITJ8RMVKDYqzXkVQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 17:01:17 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eLM5TTgxen5BDahBSdaKFXtwSLRje/UP0AwxezlyYfs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"726046"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eLM5TTgxen5BDahBSdaKFXtwSLRje/UP0AwxezlyYfs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Jan 2025 02:12:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Cental.WebUI/flat-able-admin/src/assets/images/browser/chrome.4hisvoluo5.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\flat-able-admin\src\assets\images\browser\chrome.png'))</AssetFile>

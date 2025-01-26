@@ -6,6 +6,7 @@ using Cental.DataAccesLayer.Abstract;
 using Cental.DataAccesLayer.Concrete;
 using Cental.DataAccesLayer.Context;
 using Cental.DataAccesLayer.Repositories;
+using Cental.EntityLayer.Entities;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using System.Reflection;
@@ -14,7 +15,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // About service gördüðün zaman about manager sýnýfýndan bir nesne örneði al ve iþlemi onunla yap.
 builder.Services.AddDbContext<CentalContext>();
-
+builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<CentalContext>();
 //auto mapper konfigrasyonu Web UI için. Businneste olsaydý farklý olurdu.
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 

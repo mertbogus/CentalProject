@@ -1,4 +1,5 @@
 ﻿using Cental.EntityLayer.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,11 +9,14 @@ using System.Threading.Tasks;
 
 namespace Cental.DataAccesLayer.Context
 {
-    public class CentalContext:DbContext
+    public class CentalContext:IdentityDbContext<AppUser,AppRole,int>
     {
+        //dbcontext yerine IdentityDbContext'den miras alıp role, user ve key değerinin türünü belirtiyoruz.
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("server=DESKTOP-FUO4J03;database=CentalDb;integrated security=true;trustServerCertificate=true");
+            //lAZY LOADİNG'İ KULLANMAK İÇİN
+            optionsBuilder.UseLazyLoadingProxies();
         }
 
         public DbSet<About> Abouts { get; set; }

@@ -21,8 +21,8 @@ namespace Cental.EntityLayer.Entities
         public int Kilometer{ get; set; }
 
         public int BrandId { get; set; }
-        public Brand Brand{ get; set; } //navigation property
+        public virtual Brand Brand{ get; set; } //navigation property
 
-        public List<Review> Reviews { get; set; }
+        public virtual List<Review> Reviews { get; set; }
     }
 }

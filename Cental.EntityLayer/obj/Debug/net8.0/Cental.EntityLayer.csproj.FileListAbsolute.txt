@@ -10,3 +10,4 @@ C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\Cen
 C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\refint\Cental.EntityLayer.dll
 C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\Cental.EntityLayer.pdb
 C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\ref\Cental.EntityLayer.dll
+C:\Users\MERT\source\repos\CentalProject\Cental.EntityLayer\obj\Debug\net8.0\Cental.EntityLayer.csproj.AssemblyReference.cache
