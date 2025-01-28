@@ -1,10 +1,12 @@
 ﻿using Cental.BussinesLayer.Abstract;
 using Cental.DtoLayer.AboutDtos;
 using Cental.EntityLayer.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Cental.WebUI.Controllers
 {
+    
     public class AdminAboutController : Controller
     {
         private readonly IAboutService _aboutService;

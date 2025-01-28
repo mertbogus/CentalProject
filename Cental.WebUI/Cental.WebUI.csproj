@@ -19,4 +19,8 @@
     <ProjectReference Include="..\Cental.BussinesLayer\Cental.BussinesLayer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\" />
+  </ItemGroup>
+
 </Project>

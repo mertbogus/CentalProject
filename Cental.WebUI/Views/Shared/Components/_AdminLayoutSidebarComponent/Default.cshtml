@@ -8,17 +8,17 @@
 
 			<div class="">
 				<div class="main-menu-header">
-					<img class="img-radius" src="~/flat-able-admin/dist/assets/images/user/avatar-2.jpg" alt="User-Profile-Image">
+					<img class="img-radius" src="@ViewBag.UserImage" alt="User-Profile-Image" style="border-radius:50%; height:50px; width:50px;">
 					<div class="user-details">
-						<span>John Doe</span>
+						<span>@ViewBag.NameSurname</span>
 						<div id="more-details">Admin<i class="fa fa-chevron-down m-l-5"></i></div>
 					</div>
 				</div>
 				<div class="collapse" id="nav-user-link">
 					<ul class="list-unstyled">
-						<li class="list-group-item"><a href="user-profile.html"><i class="feather icon-user m-r-5"></i>Profili Bilgileri</a></li>
-						<li class="list-group-item"><a href="#!"><i class="feather icon-settings m-r-5"></i>Siteye Git</a></li>
-						<li class="list-group-item"><a href="auth-normal-sign-in.html"><i class="feather icon-log-out m-r-5"></i>Çıkış Yap</a></li>
+						<li class="list-group-item"><a href="/AdminProfile/Index"><i class="feather icon-user m-r-5"></i>Profili Bilgileri</a></li>
+						<li class="list-group-item"><a href="/Default/Index"><i class="feather icon-settings m-r-5"></i>Siteye Git</a></li>
+						<li class="list-group-item"><a href="/Login/LogOut"><i class="feather icon-log-out m-r-5"></i>Çıkış Yap</a></li>
 					</ul>
 				</div>
 			</div>

@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\CentalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\views\\register\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\views\\register\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\controllers\\adminprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\controllers\\adminprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,14 +51,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SignUp.cshtml",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\Register\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "Cental.WebUI\\Views\\Register\\SignUp.cshtml",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\Register\\SignUp.cshtml",
-              "RelativeToolTip": "Cental.WebUI\\Views\\Register\\SignUp.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-26T02:28:35.33Z",
+              "Title": "AdminProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Controllers\\AdminProfileController.cs",
+              "RelativeDocumentMoniker": "Cental.WebUI\\Controllers\\AdminProfileController.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Controllers\\AdminProfileController.cs",
+              "RelativeToolTip": "Cental.WebUI\\Controllers\\AdminProfileController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:00:39.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "Cental.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Program.cs",
+              "RelativeToolTip": "Cental.WebUI\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:59:49.532Z",
               "EditorCaption": ""
             }
           ]

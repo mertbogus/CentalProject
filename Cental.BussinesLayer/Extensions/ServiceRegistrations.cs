@@ -26,6 +26,9 @@ namespace Cental.BussinesLayer.Extensions
 
             services.AddScoped<ICarService, CarManager>();
             services.AddScoped<ICarDal, EfCarDal>();
+
+            services.AddScoped<IImageService, ImageService>();
+  
         }
     }
 }

@@ -61,6 +61,10 @@
             "FluentValidation.AspNetCore": {
               "target": "Package",
               "version": "[11.3.0, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
             }
           },
           "imports": [
@@ -233,6 +237,10 @@
             "Microsoft.AspNet.Mvc": {
               "target": "Package",
               "version": "[5.3.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
             }
           },
           "imports": [
