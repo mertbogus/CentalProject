@@ -1,0 +1,31 @@
+﻿@model List<ResultRoleDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Layout.cshtml";
+    int count = 0;
+}
+
+<div class="alert alert-info">
+    <h5>Sitenin işleyişi açısından Rol isimleri şu şekilde olmalıdır. <strong>(Admin,Manager,User)</strong></h5>
+</div>
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Role</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        count++;
+        <tr>
+            <td>@count</td>
+            <td>@item.Name</td>
+            <td><a asp-action="DeleteRole" asp-route-id="@item.Id" class="btn btn-danger"> <i class="fa fa-trash"></i> Sil</a></td>
+            <td><a asp-action="UpdateRole" asp-route-id="@item.Id" class="btn btn-info"> <i class="fa fa-pen"></i> Güncelle</a></td>
+        </tr>
+    }
+</table>
+
+<a asp-action="CreateRole" asp-controller="Role" class="btn btn-primary mt-1"><i class="fa fa-plus-circle"></i> Yeni Rol Ekle</a>

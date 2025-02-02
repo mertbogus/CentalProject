@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Cental.WebUI.Controllers
 {
-    
+    [Authorize(Roles ="Admin")]
     public class AdminAboutController : Controller
     {
         private readonly IAboutService _aboutService;

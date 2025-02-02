@@ -20,7 +20,12 @@ namespace Cental.BussinesLayer.Concrete
             }
 
             var ImageName = Guid.NewGuid() + extension;
-            var saveLocation=Path.Combine(currentDirectory, ImageName);
+            var imageFolder = Path.Combine(currentDirectory,"wwwroot/Images/");
+            if (!Directory.Exists(imageFolder))
+            {
+                Directory.CreateDirectory(imageFolder);
+            }
+            var saveLocation=Path.Combine(currentDirectory, imageFolder, ImageName);
             var stream = new FileStream(saveLocation,FileMode.Create);
             await file.CopyToAsync(stream);
             return "/Images/" + ImageName;

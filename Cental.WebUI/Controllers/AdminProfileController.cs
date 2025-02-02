@@ -4,6 +4,7 @@ using Cental.EntityLayer.Entities;
 using Mapster;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.ComponentModel.DataAnnotations;
 
 namespace Cental.WebUI.Controllers
 {
@@ -27,11 +28,25 @@ namespace Cental.WebUI.Controllers
             {
                 if (model.ImageFile!=null)
                 {
-                    model.ImageUrl=await _imageService.SaveImage(model.ImageFile);
-                }
-                var  updateUser=model.Adapt<AppUser>();
+                    try
+                    {
+                        model.ImageUrl = await _imageService.SaveImage(model.ImageFile);
+                    }
+                    catch (Exception exc)
+                    {
 
-                var result = await _userManager.UpdateAsync(updateUser);
+                        ModelState.AddModelError(string.Empty, exc.Message);
+                        return View(model);
+                    }
+                   
+                }
+                user.FirstName = model.FirstName;
+                user.LastName = model.LastName;
+                user.ImageUrl = model.ImageUrl;
+                user.PhoneNumber=model.PhoneNumber;
+                user.Email = model.Email;
+
+                var result = await _userManager.UpdateAsync(user);
                 if (result.Succeeded)
                 {
                     return RedirectToAction("Index", "AdminAbout");
