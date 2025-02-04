@@ -1,11 +1,13 @@
 ﻿using Cental.DtoLayer.RoleDtos;
 using Cental.EntityLayer.Entities;
 using Mapster;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Cental.WebUI.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class RoleController(RoleManager<AppRole> _roleManager) : Controller
     {
         public IActionResult Index()

@@ -2,10 +2,12 @@
 using Cental.BussinesLayer.Abstract;
 using Cental.DtoLayer.BrandsDtos;
 using Cental.EntityLayer.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Cental.WebUI.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class AdminBrandController(IBrandService _brandService, IMapper _mapper) : Controller
     {
         public IActionResult Index()

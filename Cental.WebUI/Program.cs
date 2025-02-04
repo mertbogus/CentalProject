@@ -43,6 +43,7 @@ builder.Services.ConfigureApplicationCookie(cfg =>
     //Authenticatio yaptýðýmýz yere giderken otomatik bir sayfaya yönlendiriyordu. Ýstediðimiz sayfaya yönlendirdik.
     cfg.LoginPath = "/Login/Index";
     cfg.LogoutPath = "/Login/LogOut";
+    cfg.AccessDeniedPath = "/ErrorPage/AccessDenied";
 });
 
 var app = builder.Build();
@@ -57,7 +58,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
+app.UseStatusCodePagesWithReExecute("/ErrorPage/NotFound404");
 app.UseRouting();
 
 app.UseAuthentication(); //sistemde kayýtlý mý deðil mi

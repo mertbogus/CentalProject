@@ -2,10 +2,12 @@
 using Cental.BussinesLayer.Abstract;
 using Cental.DtoLayer.BannerDtos;
 using Cental.EntityLayer.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Cental.WebUI.Controllers
 {
+    [Authorize(Roles ="Admin")]
     //NET CORE 8 İLE Gelen Constructor Tanımlaması
     public class AdminBannerController(IBannerService _bannerService, IMapper _mapper) : Controller
     {

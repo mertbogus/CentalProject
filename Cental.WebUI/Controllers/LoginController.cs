@@ -10,8 +10,9 @@ namespace Cental.WebUI.Controllers
     //Primary Concstudoctur
     public class LoginController(SignInManager<AppUser> _signInManager) : Controller
     {
-        public IActionResult Index()
+        public async Task<IActionResult> IndexAsync()
         {
+            await _signInManager.SignOutAsync();
             return View();
         }
 
