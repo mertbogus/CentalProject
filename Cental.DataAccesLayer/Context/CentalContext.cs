@@ -16,7 +16,7 @@ namespace Cental.DataAccesLayer.Context
         {
             optionsBuilder.UseSqlServer("server=DESKTOP-FUO4J03;database=CentalDb;integrated security=true;trustServerCertificate=true");
             //lAZY LOADİNG'İ KULLANMAK İÇİN
-            optionsBuilder.UseLazyLoadingProxies();
+            //optionsBuilder.UseLazyLoadingProxies();
         }
 
         public DbSet<About> Abouts { get; set; }
@@ -28,5 +28,7 @@ namespace Cental.DataAccesLayer.Context
         public DbSet<Review> Reviews { get; set; }
         public DbSet<Service> Services { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
+
+        public DbSet<UserSocial> UserSocials { get; set; }
     }
 }

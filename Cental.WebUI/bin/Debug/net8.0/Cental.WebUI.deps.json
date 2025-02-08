@@ -2100,6 +2100,7 @@
       },
       "Cental.BussinesLayer/1.0.0": {
         "dependencies": {
+          "AutoMapper": "13.0.1",
           "Cental.DataAccesLayer": "1.0.0",
           "Cental.DtoLayer": "1.0.0",
           "FluentValidation.AspNetCore": "11.3.0",

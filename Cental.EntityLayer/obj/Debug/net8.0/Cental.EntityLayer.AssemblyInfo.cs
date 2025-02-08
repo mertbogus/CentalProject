@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cental.EntityLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a900e9f8ebe8663d6047c23eee6f4de69cc8dce2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bff4ed55a5dc668857b1d8516ae71152823a8837")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cental.EntityLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cental.EntityLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

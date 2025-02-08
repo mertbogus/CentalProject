@@ -13,6 +13,7 @@ namespace Cental.BussinesLayer.Extensions
 {
     public static class ServiceRegistrations
     {
+        //IOC Container
         public static void AddServiceRegistrations(this IServiceCollection services)
         {
             services.AddScoped<IAboutService, AboutManager>();
@@ -28,6 +29,9 @@ namespace Cental.BussinesLayer.Extensions
             services.AddScoped<ICarDal, EfCarDal>();
 
             services.AddScoped<IImageService, ImageService>();
+
+            services.AddScoped<IUserSocialService, UserSocialManager>();
+            services.AddScoped<IUserSocialDal, EfuserSocialDal>();
   
         }
     }

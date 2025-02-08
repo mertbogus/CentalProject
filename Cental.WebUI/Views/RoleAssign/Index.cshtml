@@ -26,7 +26,7 @@
             <td>
             @foreach (var role in item.Roles)
             {
-                @role <br />
+                    <span class="badge badge-danger">@role </span><br />
             }
            </td>
             <td><a asp-action="AssignRole" asp-route-id="@item.Id" class="btn btn-info"> <i class="fa fa-pen"></i> Rol Ata</a></td>

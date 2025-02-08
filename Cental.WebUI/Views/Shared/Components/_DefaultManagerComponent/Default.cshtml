@@ -1,0 +1,39 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model List<ResultUserDto>
+<div class="container-fluid team pb-5">
+    <div class="container pb-5">
+        <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
+            <h1 class="display-5 text-capitalize mb-3">Müşteri<span class="text-primary"> Danışmanlarımız</span> </h1>
+            <p class="mb-0">
+                Çalışanlarımız sizlerle en iyi şekilde ilgilenmek için varlar. Aşağı da yer alan iletişim kanallarından ulaşım sağlayabilirsiniz.
+            </p>
+        </div>
+        <div class="row g-4">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item p-4 pt-0">
+                        <div class="team-img">
+                            <img src="@item.ImageUrl" class="img-fluid rounded w-100" alt="Image">
+                        </div>
+                        <div class="team-content pt-4">
+                            <h4>@item.FullName</h4>
+                            <p>Müşteri Danışmanı</p>
+                            <div class="team-icon d-flex justify-content-center">
+                                <a class="btn btn-square btn-light rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square btn-light rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square btn-light rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square btn-light rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</div>

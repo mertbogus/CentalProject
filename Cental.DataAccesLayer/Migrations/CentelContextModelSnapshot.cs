@@ -18,9 +18,6 @@ namespace Cental.DataAccesLayer.Migrations
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("ProductVersion", "8.0.11")
-                .HasAnnotation("Proxies:ChangeTracking", false)
-                .HasAnnotation("Proxies:CheckEquality", false)
-                .HasAnnotation("Proxies:LazyLoading", true)
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -416,6 +413,36 @@ namespace Cental.DataAccesLayer.Migrations
                     b.ToTable("Testimonials");
                 });
 
+            modelBuilder.Entity("Cental.EntityLayer.Entities.UserSocial", b =>
+                {
+                    b.Property<int>("UserSocialId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserSocialId"));
+
+                    b.Property<string>("Icon")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Url")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("UserSocialId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("UserSocials");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<int>", b =>
                 {
                     b.Property<int>("Id")
@@ -541,6 +568,17 @@ namespace Cental.DataAccesLayer.Migrations
                     b.Navigation("Car");
                 });
 
+            modelBuilder.Entity("Cental.EntityLayer.Entities.UserSocial", b =>
+                {
+                    b.HasOne("Cental.EntityLayer.Entities.AppUser", "User")
+                        .WithMany("UserSocials")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<int>", b =>
                 {
                     b.HasOne("Cental.EntityLayer.Entities.AppRole", null)
@@ -590,6 +628,11 @@ namespace Cental.DataAccesLayer.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("Cental.EntityLayer.Entities.AppUser", b =>
+                {
+                    b.Navigation("UserSocials");
                 });
 
             modelBuilder.Entity("Cental.EntityLayer.Entities.Brand", b =>
