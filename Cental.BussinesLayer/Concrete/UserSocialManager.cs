@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Cental.BussinesLayer.Concrete
 {
-    public class UserSocialManager(IUserSocialDal _userSocialDal,IMapper mapper) : IUserSocialService
+    public class UserSocialManager(IUserSocialDal _userSocialDal, IMapper mapper) : IUserSocialService
     {
 
         public void TCreate(UserSocial entity)
@@ -43,7 +43,7 @@ namespace Cental.BussinesLayer.Concrete
 
         public void TUpdate(UserSocial entity)
         {
-            _userSocialDal.Update(entity);  
+            _userSocialDal.Update(entity);
         }
     }
 }

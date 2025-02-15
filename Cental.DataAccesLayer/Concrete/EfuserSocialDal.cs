@@ -18,7 +18,7 @@ namespace Cental.DataAccesLayer.Concrete
 
         public List<UserSocial> GetSocialsByUserId(int userId)
         {
-            return _context.UserSocials.Where(x=>x.UserId==userId).ToList();
+            return _context.UserSocials.Where(x => x.UserId == userId).ToList();
         }
     }
 }

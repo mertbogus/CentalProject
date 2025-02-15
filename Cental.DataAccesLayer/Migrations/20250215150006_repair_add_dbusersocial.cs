@@ -5,7 +5,7 @@
 namespace Cental.DataAccesLayer.Migrations
 {
     /// <inheritdoc />
-    public partial class mig_socialmedia_db_Add : Migration
+    public partial class repair_add_dbusersocial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -14,17 +14,16 @@ namespace Cental.DataAccesLayer.Migrations
                 name: "UserSocials",
                 columns: table => new
                 {
-                    Id = table.Column<int>(type: "int", nullable: false)
+                    UserSocialId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    UserSocialUd = table.Column<int>(type: "int", nullable: false),
                     Url = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    İcon = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Icon = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Title = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     UserId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_UserSocials", x => x.Id);
+                    table.PrimaryKey("PK_UserSocials", x => x.UserSocialId);
                     table.ForeignKey(
                         name: "FK_UserSocials_AspNetUsers_UserId",
                         column: x => x.UserId,

@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Cental.DataAccesLayer.Migrations
 {
     [DbContext(typeof(CentalContext))]
-    [Migration("20250207004039_mig_socialmedia_db_Add")]
-    partial class mig_socialmedia_db_Add
+    [Migration("20250215150006_repair_add_dbusersocial")]
+    partial class repair_add_dbusersocial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -21,6 +21,9 @@ namespace Cental.DataAccesLayer.Migrations
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("ProductVersion", "8.0.11")
+                .HasAnnotation("Proxies:ChangeTracking", false)
+                .HasAnnotation("Proxies:CheckEquality", false)
+                .HasAnnotation("Proxies:LazyLoading", true)
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -418,11 +421,15 @@ namespace Cental.DataAccesLayer.Migrations
 
             modelBuilder.Entity("Cental.EntityLayer.Entities.UserSocial", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("UserSocialId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserSocialId"));
+
+                    b.Property<string>("Icon")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Title")
                         .IsRequired()
@@ -435,14 +442,7 @@ namespace Cental.DataAccesLayer.Migrations
                     b.Property<int>("UserId")
                         .HasColumnType("int");
 
-                    b.Property<int>("UserSocialUd")
-                        .HasColumnType("int");
-
-                    b.Property<string>("İcon")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
+                    b.HasKey("UserSocialId");
 
                     b.HasIndex("UserId");
 
@@ -577,7 +577,7 @@ namespace Cental.DataAccesLayer.Migrations
             modelBuilder.Entity("Cental.EntityLayer.Entities.UserSocial", b =>
                 {
                     b.HasOne("Cental.EntityLayer.Entities.AppUser", "User")
-                        .WithMany("UserSocials")
+                        .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -634,11 +634,6 @@ namespace Cental.DataAccesLayer.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("Cental.EntityLayer.Entities.AppUser", b =>
-                {
-                    b.Navigation("UserSocials");
                 });
 
             modelBuilder.Entity("Cental.EntityLayer.Entities.Brand", b =>

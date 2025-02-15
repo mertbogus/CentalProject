@@ -18,10 +18,38 @@
         <tr>
             <td>@count</td>
             <td><a href="@item.SocialMediaUrl" target="_blank"></a><i class="@item.Icon">@item.Title</i></td>
-            <td><a asp-action="DeleteUserSocial" asp-route-id="@item.UserSocialId" class="btn btn-danger">Sil</a> </td>
-            <td><a asp-action="UpdateUserSocial" asp-route-id="@item.UserSocialId" class="btn btn-info">Güncelle</a> </td>
+            <td><button onclick="deleteSocial(@item.Id)"  class="btn btn-danger">Sil</button> </td>
+            <td><a asp-action="UpdateUserSocial" asp-route-id="@item.Id" class="btn btn-info">Güncelle</a> </td>
         </tr>
     }
 </table>
 
 <a asp-action="CreateSocial" asp-controller="MySocial" class="btn btn-primary">Yeni Sosyal Medya Hesabı Ekle</a>
+
+<script>
+
+    function deleteSocial(id){
+
+        Swal.fire({
+            title: "Silmek istediğinize emin misiniz?",
+            text: "Bu İşlemi geri alamazsınız!",
+            icon: "warning",
+            showCancelButton: true,
+            confirmButtonColor: "#3085d6",
+            cancelButtonColor: "#d33",
+            confirmButtonText: "Evet, Sil!",
+            cancelButtonText:"İptal Et"
+        }).then((result) => {
+            if (result.isConfirmed) {
+
+                window.location.href = "/Manager/MySocial/DeleteSocial/" + id;
+
+
+            }
+        });
+
+
+    }
+
+
+</script>

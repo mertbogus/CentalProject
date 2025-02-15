@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Cental.DataAccesLayer.Abstract
 {
-    public interface IUserSocialDal:IGenericDal<UserSocial>
+    public interface IUserSocialDal : IGenericDal<UserSocial>
     {
         List<UserSocial> GetSocialsByUserId(int userId);
     }

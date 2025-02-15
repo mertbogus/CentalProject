@@ -1,0 +1,55 @@
+﻿@model List<Car>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/UILayout/Index.cshtml";
+}
+
+<!-- Car categories Start -->
+<div class="container-fluid categories py-5">
+    <div class="container py-5">
+        <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
+            <h1 class="display-5 text-capitalize mb-3">Tüm <span class="text-primary">Araçlarımız</span></h1>
+            <p class="mb-0">
+               Bütün araçlarımıza aşağıdaki kısımdan ulaşabilirsiniz.
+            </p>
+        </div>
+
+        @await Component.InvokeAsync("_CarFilterCars")
+
+        <div class="container">
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    <div class="col-md-4 col-sm-6 mb-4">
+                        <div class="card h-100 shadow-sm">
+                            <img src="@item.ImageUrl" class="card-img-top" alt="@item.Brand.BrandName @item.ModelName">
+                            <div class="card-body">
+                                <h5 class="card-title">@item.Brand.BrandName @item.ModelName</h5>
+                                <p class="text-muted">Puanı: @(item.Reviews.Any() ? item.Reviews.Average(x => x.Rating) : "Değerlendirilmedi")</p>
+
+                                <h4 class="text-primary">@item.Price ₺ / Günlük</h4>
+
+                                <div class="d-flex justify-content-between text-secondary my-3">
+                                    <span><i class="fa fa-users"></i> @item.SeatCout Koltuk</span>
+                                    <span><i class="fa fa-car"></i> @item.Transmission</span>
+                                    <span><i class="fa fa-gas-pump"></i> @item.GasType</span>
+                                </div>
+
+                                <div class="d-flex justify-content-between text-secondary">
+                                    <span><i class="fa fa-calendar"></i> @item.Year</span>
+                                    <span><i class="fa fa-cogs"></i> @item.GearType</span>
+                                    <span><i class="fa fa-road"></i> @item.Kilometer km</span>
+                                </div>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <a href="/Default/Index" class="btn btn-primary w-100 rounded-pill">Hemen Kirala</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+
+    </div>
+</div>
+<!-- Car categories End -->

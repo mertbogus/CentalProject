@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Cental.EntityLayer.Entities
 {
-    public  class UserSocial: BaseEntity
+    public class UserSocial : BaseEntity
     {
         public int UserSocialId { get; set; }
         public string Url { get; set; }

@@ -10,6 +10,6 @@ namespace Cental.BussinesLayer.Abstract
 {
     public interface IUserSocialService : IGenericService<UserSocial>
     {
-          List<ResultUserSocialDto> TGetSocialsByUserId(int userId);
+        List<ResultUserSocialDto> TGetSocialsByUserId(int userId);
     }
 }
