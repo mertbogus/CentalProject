@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cental.BussinesLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e21c8c2404eb927cfb5ca24b3cb2c4fd4b35a08a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9aa302efa958443cde01d04cefd7c94c370f42e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cental.BussinesLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cental.BussinesLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

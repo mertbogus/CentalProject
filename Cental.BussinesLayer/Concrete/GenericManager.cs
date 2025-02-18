@@ -42,6 +42,7 @@ namespace Cental.BussinesLayer.Concrete
         public void TUpdate(T entity)
         {
             _genericDal.Update(entity);
+            
         }
     }
 }

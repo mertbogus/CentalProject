@@ -44,16 +44,16 @@ namespace Cental.WebUI.Controllers
         [HttpGet]
         public IActionResult UpdateFeature(int id)
         {
-            var features = _featureService.TGetById(id);
-            var values = _mapper.Map<Feature>(features);
-            return View(values);
+            var feature = _featureService.TGetById(id);
+            var featureDto = _mapper.Map<UpdateFeatureDto>(feature); // Feature -> UpdateFeatureDto'ya dönüştürme
+            return View(featureDto);
         }
 
         [HttpPost]
         public IActionResult UpdateFeature(UpdateFeatureDto model)
         {
             var feature=_featureService.TGetById(model.FeatureId);
-            var features = _mapper.Map<Feature>(feature);
+            var features = _mapper.Map(model,feature);
             _featureService.TUpdate(features);
             return RedirectToAction("Index");
         }

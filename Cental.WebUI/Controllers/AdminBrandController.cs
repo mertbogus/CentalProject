@@ -45,7 +45,7 @@ namespace Cental.WebUI.Controllers
         public IActionResult UpdateBrands(int id)
         {
             var brand = _brandService.TGetById(id);
-            var values = _mapper.Map <Brand> (brand);
+            var values = _mapper.Map <UpdateBrandDto> (brand);
             return View(values);
         }
 
@@ -53,7 +53,7 @@ namespace Cental.WebUI.Controllers
         public IActionResult UpdateBrands(UpdateBrandDto model)
         {
             var brand = _brandService.TGetById(model.BrandId);
-            var values = _mapper.Map<Brand>(brand);
+            var values = _mapper.Map(model, brand);
             _brandService.TUpdate(values);
             return RedirectToAction("Index");
         }

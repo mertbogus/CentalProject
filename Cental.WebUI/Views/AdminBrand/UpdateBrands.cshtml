@@ -3,10 +3,10 @@
     ViewData["Title"] = "Marka Güncelle";
     Layout = "~/Views/AdminLayout/Layout.cshtml";
 }
-
+<form method="post">
 <input type="hidden" asp-for="BrandId" />
 <label>Marka Adı</label>
 <input type="text" asp-for="BrandName" class="form-control" />
 <button class="btn btn-outline-primary mt-1"> <i class="fa fa-save"></i> Güncelle</button>
 <br />
-
+</form>
