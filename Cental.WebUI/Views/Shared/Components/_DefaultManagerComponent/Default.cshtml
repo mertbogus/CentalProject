@@ -24,10 +24,11 @@
                             <h4>@item.FullName</h4>
                             <p>Müşteri Danışmanı</p>
                             <div class="team-icon d-flex justify-content-center">
-                                <a class="btn btn-square btn-light rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square btn-light rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square btn-light rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                <a class="btn btn-square btn-light rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                @foreach (var social in item.UserSocials)
+                                {
+                                    <a class="btn btn-square btn-light rounded-circle mx-1" href="@social.SocialMediaUrl" target="_blank"><i class="@social.Icon"></i></a>
+                                }
+
                             </div>
                         </div>
                     </div>

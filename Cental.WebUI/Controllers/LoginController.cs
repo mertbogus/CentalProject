@@ -8,7 +8,7 @@ namespace Cental.WebUI.Controllers
 {
     [AllowAnonymous]
     //Primary Concstudoctur
-    public class LoginController(SignInManager<AppUser> _signInManager) : Controller
+    public class LoginController(SignInManager<AppUser> _signInManager, UserManager<AppUser> _userManager) : Controller
     {
         public async Task<IActionResult> IndexAsync()
         {
@@ -32,7 +32,26 @@ namespace Cental.WebUI.Controllers
                 return Redirect(returnUrl);
             }
 
-            return RedirectToAction("Index","AdminAbout");
+            var user = await _userManager.FindByNameAsync(model.UserName);
+            var userroles = await _userManager.GetRolesAsync(user);
+            foreach (var role in userroles)
+            {
+                if (role=="Admin")
+                {
+                    return RedirectToAction("Index", "AdminAbout");
+                }
+                if (role=="Manager")
+                {
+                    return RedirectToAction("Index", "MySocial",new {area="Manager"});
+                }
+                if (role == "User")
+                {
+                    return RedirectToAction("Index", "MyProfile", new { area = "User" });
+                }
+            }
+
+            return RedirectToAction("Index");
+          
         }
 
         public async Task<IActionResult> LogOut()

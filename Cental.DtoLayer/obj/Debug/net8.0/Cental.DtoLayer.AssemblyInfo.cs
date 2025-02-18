@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cental.DtoLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29a2fd339e06b04fabfaa46e840aec7a4b9ea9ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e21c8c2404eb927cfb5ca24b3cb2c4fd4b35a08a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cental.DtoLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cental.DtoLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

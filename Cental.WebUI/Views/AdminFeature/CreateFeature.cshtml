@@ -1,0 +1,18 @@
+﻿@model CreateFeatureDto
+@{
+    ViewData["Title"] = "Feature Ekleme";
+    Layout = "~/Views/AdminLayout/Layout.cshtml";
+}
+
+<form method="post">
+    <label> Başlık</label>
+    <input type="text" asp-for="Title" class="form-control mt-2" />
+    <span asp-validation-for="Title" class="text-danger"></span>
+    <label> Açıklama</label>
+    <textarea asp-for="Description" class="form-control mt-2"></textarea>
+    <span asp-validation-for="Description" class="text-danger"></span>
+    <label> İcon</label>
+    <input type="text" asp-for="Icon" placeholder="fa fa-tag fa-2x" class="form-control mt-2" />
+    <span asp-validation-for="Icon" class="text-danger"></span>
+    <button class="btn btn-outline-primary mt-1"> <i class="fa fa-save"></i>Kaydet</button>
+</form>

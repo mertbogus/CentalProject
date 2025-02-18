@@ -33,6 +33,9 @@ namespace Cental.BussinesLayer.Extensions
             services.AddScoped<IUserSocialService, UserSocialManager>();
             services.AddScoped<IUserSocialDal, EfuserSocialDal>();
 
+            services.AddScoped<IFeatureService, FeatureManager>();
+            services.AddScoped<IFeatureDal, EfFeatureDal>();
+
         }
     }
 }

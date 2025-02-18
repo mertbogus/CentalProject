@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Cental.DtoLayer.UserSocialDtos;
+using Cental.EntityLayer.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,5 +20,7 @@ namespace Cental.DtoLayer.UserDtos
         public string Email { get; set; }
 
         public IList<string> Roles { get; set; }
+
+        public virtual List<ResultUserSocialDto> UserSocials { get; set; }
     }
 }
