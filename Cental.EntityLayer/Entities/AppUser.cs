@@ -15,5 +15,7 @@ namespace Cental.EntityLayer.Entities
         public string? ImageUrl { get; set; }
 
         public virtual List<UserSocial> UserSocials { get; set; }
+
+        public virtual List<Booking> Bookings { get; set; }
     }
 }

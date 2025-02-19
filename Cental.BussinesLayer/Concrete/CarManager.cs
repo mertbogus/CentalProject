@@ -19,6 +19,11 @@ namespace Cental.BussinesLayer.Concrete
             _Cardal = cardal;
         }
 
+        public List<Car> GetCarCategories()
+        {
+            return _Cardal.GetCarCategories();
+        }
+
         public List<Car> GetCarsWithBrands()
         {
             return _Cardal.GetCarsWithBrands();

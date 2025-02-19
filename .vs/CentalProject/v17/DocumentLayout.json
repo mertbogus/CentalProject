@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\CentalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\views\\shared\\components\\_adminlayoutsidebarcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\views\\shared\\components\\_adminlayoutsidebarcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\views\\shared\\components\\_uicarstepscomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\views\\shared\\components\\_uicarstepscomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\views\\shared\\components\\_uifactcountercomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\views\\shared\\components\\_uifactcountercomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,13 +56,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\Shared\\Components\\_AdminLayoutSidebarComponent\\Default.cshtml",
-              "RelativeDocumentMoniker": "Cental.WebUI\\Views\\Shared\\Components\\_AdminLayoutSidebarComponent\\Default.cshtml",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\Shared\\Components\\_AdminLayoutSidebarComponent\\Default.cshtml",
-              "RelativeToolTip": "Cental.WebUI\\Views\\Shared\\Components\\_AdminLayoutSidebarComponent\\Default.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAB7AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\Shared\\Components\\_UICarStepsComponent\\Default.cshtml",
+              "RelativeDocumentMoniker": "Cental.WebUI\\Views\\Shared\\Components\\_UICarStepsComponent\\Default.cshtml",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\Shared\\Components\\_UICarStepsComponent\\Default.cshtml",
+              "RelativeToolTip": "Cental.WebUI\\Views\\Shared\\Components\\_UICarStepsComponent\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T02:52:28.182Z",
+              "WhenOpened": "2025-02-19T00:33:46.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\Shared\\Components\\_UIFactCounterComponent\\Default.cshtml",
+              "RelativeDocumentMoniker": "Cental.WebUI\\Views\\Shared\\Components\\_UIFactCounterComponent\\Default.cshtml",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\Shared\\Components\\_UIFactCounterComponent\\Default.cshtml",
+              "RelativeToolTip": "Cental.WebUI\\Views\\Shared\\Components\\_UIFactCounterComponent\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T00:33:21.113Z",
               "EditorCaption": ""
             }
           ]

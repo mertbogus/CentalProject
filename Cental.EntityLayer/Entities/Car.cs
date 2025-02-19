@@ -24,5 +24,7 @@ namespace Cental.EntityLayer.Entities
         public virtual Brand Brand{ get; set; } //navigation property
 
         public virtual List<Review> Reviews { get; set; }
+
+        public virtual List<Booking> Bookings { get; set; }
     }
 }

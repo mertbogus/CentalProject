@@ -11,5 +11,7 @@ namespace Cental.BussinesLayer.Abstract
     public  interface ICarService : IGenericService<Car>
     {
         public List<Car> GetCarsWithBrands();
+
+        public List<Car> GetCarCategories();
     }
 }

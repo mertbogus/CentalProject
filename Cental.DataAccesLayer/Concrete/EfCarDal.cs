@@ -17,6 +17,11 @@ namespace Cental.DataAccesLayer.Concrete
         {
         }
 
+        public List<Car> GetCarCategories()
+        {
+            return _context.Cars.OrderByDescending(x => x.CarId).Take(6).ToList();
+        }
+
         public List<Car> GetCarsWithBrands()
         {
             return _context.Cars.Include(x => x.Brand).ToList();

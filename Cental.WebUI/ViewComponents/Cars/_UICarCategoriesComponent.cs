@@ -1,12 +1,16 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AutoMapper;
+using Cental.BussinesLayer.Abstract;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Cental.WebUI.ViewComponents.Cars
 {
-    public class _UICarCategoriesComponent : ViewComponent
+    public class _UICarCategoriesComponent(ICarService _carService, IMapper _mapper) : ViewComponent
     {
+
         public IViewComponentResult Invoke()
         {
-            return View();
+            var values= _carService.GetCarCategories();
+            return View(values);
         }
     }
 }
