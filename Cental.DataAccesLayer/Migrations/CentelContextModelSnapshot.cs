@@ -226,6 +226,47 @@ namespace Cental.DataAccesLayer.Migrations
                     b.ToTable("Banners");
                 });
 
+            modelBuilder.Entity("Cental.EntityLayer.Entities.Booking", b =>
+                {
+                    b.Property<int>("BookingId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("BookingId"));
+
+                    b.Property<string>("BookingDropOf")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("BookingLastDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("BookingPickUp")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("BookingStartDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("BookingStatus")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("CarId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("BookingId");
+
+                    b.HasIndex("CarId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Booking");
+                });
+
             modelBuilder.Entity("Cental.EntityLayer.Entities.Brand", b =>
                 {
                     b.Property<int>("BrandId")
@@ -549,6 +590,25 @@ namespace Cental.DataAccesLayer.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("Cental.EntityLayer.Entities.Booking", b =>
+                {
+                    b.HasOne("Cental.EntityLayer.Entities.Car", "Cars")
+                        .WithMany("Bookings")
+                        .HasForeignKey("CarId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Cental.EntityLayer.Entities.AppUser", "User")
+                        .WithMany("Bookings")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Cars");
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("Cental.EntityLayer.Entities.Car", b =>
                 {
                     b.HasOne("Cental.EntityLayer.Entities.Brand", "Brand")
@@ -635,6 +695,8 @@ namespace Cental.DataAccesLayer.Migrations
 
             modelBuilder.Entity("Cental.EntityLayer.Entities.AppUser", b =>
                 {
+                    b.Navigation("Bookings");
+
                     b.Navigation("UserSocials");
                 });
 
@@ -645,6 +707,8 @@ namespace Cental.DataAccesLayer.Migrations
 
             modelBuilder.Entity("Cental.EntityLayer.Entities.Car", b =>
                 {
+                    b.Navigation("Bookings");
+
                     b.Navigation("Reviews");
                 });
 #pragma warning restore 612, 618

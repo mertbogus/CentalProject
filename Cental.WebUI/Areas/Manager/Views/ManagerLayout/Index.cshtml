@@ -6,29 +6,7 @@
 <html lang="en">
 
 <head>
-    <title>Centel - Manager Paneli</title>
-    <!-- HTML5 Shim and Respond.js IE11 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 11]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
-    <!-- Meta -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="description" content="" />
-    <meta name="keywords" content="">
-    <meta name="author" content="Phoenixcoded" />
-    <!-- Favicon icon -->
-    <link rel="icon" href="~/flat-able-admin/dist/assets/images/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-    <!-- vendor css -->
-    <link rel="stylesheet" href="~/flat-able-admin/dist/assets/css/style.css">
-
-
-
+    @await Component.InvokeAsync("_ManagerLayoutHeadComponent")
 </head>
 <body class="">
     <!-- [ Pre-loader ] start -->
@@ -40,41 +18,8 @@
     <!-- [ Pre-loader ] End -->
     <!-- [ navigation menu ] start -->
     <nav class="pcoded-navbar  ">
-        <div class="navbar-wrapper  ">
-            <div class="navbar-content scroll-div ">
-
-                <div class="">
-                    <div class="main-menu-header">
-                        <img class="img-radius" src="ManagerImg Url" alt="User-Profile-Image" style="border-radius:50%; height:50px; width:50px;">
-                        <div class="user-details">
-                            <span>@ViewBag.NameSurname</span>
-                            <div id="more-details">Admin<i class="fa fa-chevron-down m-l-5"></i></div>
-                        </div>
-                    </div>
-                    <div class="collapse" id="nav-user-link">
-                        <ul class="list-unstyled">
-                            <li class="list-group-item"><a href="/Manager/Profile/Index"><i class="feather icon-user m-r-5"></i>Profili Bilgileri</a></li>
-                            <li class="list-group-item"><a href="/Default/Index"><i class="feather icon-settings m-r-5"></i>Siteye Git</a></li>
-                            <li class="list-group-item"><a href="/Login/LogOut"><i class="feather icon-log-out m-r-5"></i>Çıkış Yap</a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <ul class="nav pcoded-inner-navbar ">
-                    <li class="nav-item pcoded-menu-caption">
-                        <label>Menü</label>
-                    </li>
-                    <li class="nav-item">
-                        <a href="index.html" class="nav-link "><span class="pcoded-micon"><i class="fa-solid fa-chart-simple"></i></span><span class="pcoded-mtext">Dashboard</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="/Manager/Car/Index" class="nav-link "><span class="pcoded-micon"><i class="fa-solid fa-car"></i></span><span class="pcoded-mtext">Araçlar</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="/Manager/MySocial/Index" class="nav-link "><span class="pcoded-micon"><i class="fa-solid fa-hashtag"></i></span><span class="pcoded-mtext">Sosyal Medya Hesaplarım</span></a>
-                    </li>
-                </ul>
-            </div>
+        <div class="navbar-wrapper ">
+            @await Component.InvokeAsync("_ManagerLayaoutSideBarComponent")
         </div>
     </nav>
     <!-- [ navigation menu ] end -->

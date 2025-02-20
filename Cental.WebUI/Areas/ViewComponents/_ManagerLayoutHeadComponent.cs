@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Cental.WebUI.ViewComponents.Cars
+namespace Cental.WebUI.Areas.ViewComponents
 {
-    public class _UICarStepsComponent : ViewComponent
+    public class _ManagerLayoutHeadComponent : ViewComponent
     {
         public IViewComponentResult Invoke()
         {

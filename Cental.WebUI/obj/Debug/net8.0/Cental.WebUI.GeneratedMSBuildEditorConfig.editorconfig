@@ -36,12 +36,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xNYW5hZ2VyTGF5b3V0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/Manager/Views/ManagerProfile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xNYW5hZ2VyUHJvZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/Manager/Views/MySocial/CreateSocials.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xNeVNvY2lhbFxDcmVhdGVTb2NpYWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/Manager/Views/MySocial/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xNeVNvY2lhbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/Manager/Views/Shared/Components/_ManagerLayaoutSideBarComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xfTWFuYWdlckxheWFvdXRTaWRlQmFyQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/Manager/Views/Shared/Components/_ManagerLayoutHeadComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xfTWFuYWdlckxheW91dEhlYWRDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/Manager/Views/_ViewImports.cshtml]
@@ -100,6 +112,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminProcess/CreateProcess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9jZXNzXENyZWF0ZVByb2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminProcess/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9jZXNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminProcess/UpdateProcess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9jZXNzXFVwZGF0ZVByb2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminProfile/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9maWxlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -114,6 +138,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminServices/UpdateService.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5TZXJ2aWNlc1xVcGRhdGVTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Booking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Cars/FilterCars.cshtml]
@@ -208,16 +236,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJQ2FyQ2F0ZWdvcmllc0NvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Shared/Components/_UICarStepsComponent/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJQ2FyU3RlcHNDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Shared/Components/_UIFactCounterComponent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJRmFjdENvdW50ZXJDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Shared/Components/_UIFeatureComponent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJRmVhdHVyZUNvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Shared/Components/_UIProcessComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJUHJvY2Vzc0NvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Shared/Components/_UIServicesComponent/Default.cshtml]

@@ -7416,6 +7416,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FLyw6JDw5P\u002B/KOh\u002BJIO9vhj8Pp3FfaIJTf2cU5uqiTA="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"20489"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022FLyw6JDw5P\u002B/KOh\u002BJIO9vhj8Pp3FfaIJTf2cU5uqiTA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 17:01:35 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Cental.WebUI/Images/784a9bd5-deb4-4f32-a597-5851bb55e81a.585b5zti9e.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\784a9bd5-deb4-4f32-a597-5851bb55e81a.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"585b5zti9e"},{"Name":"integrity","Value":"sha256-yy/tHdCiZLm1T2EpDJIPwGB0orA5ptWqhQfFnM3Ij4A="},{"Name":"label","Value":"_content/Cental.WebUI/Images/784a9bd5-deb4-4f32-a597-5851bb55e81a.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"267933"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yy/tHdCiZLm1T2EpDJIPwGB0orA5ptWqhQfFnM3Ij4A=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 22:48:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Cental.WebUI/Images/784a9bd5-deb4-4f32-a597-5851bb55e81a.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\784a9bd5-deb4-4f32-a597-5851bb55e81a.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yy/tHdCiZLm1T2EpDJIPwGB0orA5ptWqhQfFnM3Ij4A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"267933"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yy/tHdCiZLm1T2EpDJIPwGB0orA5ptWqhQfFnM3Ij4A=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 22:48:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Cental.WebUI/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

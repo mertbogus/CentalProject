@@ -605,6 +605,10 @@
       "PackagePath": "staticwebassets\\Cental-1.0.0\\testimonial.html"
     },
     {
+      "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Images\\784a9bd5-deb4-4f32-a597-5851bb55e81a.png",
+      "PackagePath": "staticwebassets\\Images\\784a9bd5-deb4-4f32-a597-5851bb55e81a.png"
+    },
+    {
       "Id": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

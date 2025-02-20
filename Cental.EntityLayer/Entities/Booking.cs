@@ -21,6 +21,6 @@ namespace Cental.EntityLayer.Entities
 
         public virtual AppUser User { get; set; }
 
-        public virtual List<Car> Cars { get; set; }
+        public virtual Car Cars { get; set; }
     }
 }

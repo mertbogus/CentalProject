@@ -39,6 +39,11 @@ namespace Cental.BussinesLayer.Extensions
             services.AddScoped<IServicesService, ServicesManager>();
             services.AddScoped<IServiceDal, EfServiceDal>();
 
+            services.AddScoped<IBookingService, BookingManager>();
+            services.AddScoped<IBookingDal, EfBookingDal>();
+
+            services.AddScoped<IProcessService, ProcessManager>();
+            services.AddScoped<IProcessDal, EfProcessDal>();
         }
     }
 }

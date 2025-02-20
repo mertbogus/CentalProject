@@ -615,6 +615,7 @@ wwwroot\flat-able-admin\src\html\layout-vertical.html
 wwwroot\flat-able-admin\src\html\map-google.html
 wwwroot\flat-able-admin\src\html\sample-page.html
 wwwroot\flat-able-admin\src\html\tbl_bootstrap.html
+wwwroot\Images\784a9bd5-deb4-4f32-a597-5851bb55e81a.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

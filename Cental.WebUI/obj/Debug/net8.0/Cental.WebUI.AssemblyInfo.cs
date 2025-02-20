@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cental.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2713ef1aa266c7bea40c80cfd931ac383f79dd7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5d9f07dea776687abef02c42f8688adc2cc6b4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cental.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cental.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
