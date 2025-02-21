@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Cental.WebUI.Areas.ViewComponents
+namespace Cental.WebUI.Areas.Manager.ViewComponents
 {
     public class _ManagerLayaoutSideBarComponent(UserManager<AppUser> _userManager) : ViewComponent
     {

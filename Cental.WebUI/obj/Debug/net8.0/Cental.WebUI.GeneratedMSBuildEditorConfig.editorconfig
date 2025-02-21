@@ -32,6 +32,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xCb29raW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/Manager/Views/ManagerBooking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xNYW5hZ2VyQm9va2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/Manager/Views/ManagerLayout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xNYW5hZ2VyTGF5b3V0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -60,6 +64,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/User/Views/Shared/Components/_UserLayoutHeaderComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xfVXNlckxheW91dEhlYWRlckNvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/User/Views/Shared/Components/_UserLayoutSideBarComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xfVXNlckxheW91dFNpZGVCYXJDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/User/Views/UserBooking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xVc2VyQm9va2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/User/Views/UserLayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xVc2VyTGF5b3V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/User/Views/UserProfile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xVc2VyUHJvZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/User/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminAbout/CreateAbout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BYm91dFxDcmVhdGVBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -74,6 +102,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminBanner/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CYW5uZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminBooking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Cb29raW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminBrand/CreateBrands.cshtml]
@@ -230,6 +262,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Shared/Components/_UIBannerComponent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJQmFubmVyQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Shared/Components/_UIBookingComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJQm9va2luZ0NvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Shared/Components/_UICarCategoriesComponent/Default.cshtml]

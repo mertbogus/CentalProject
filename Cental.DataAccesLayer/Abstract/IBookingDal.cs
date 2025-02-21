@@ -9,5 +9,6 @@ namespace Cental.DataAccesLayer.Abstract
 {
     public interface IBookingDal : IGenericDal<Booking>
     {
+        List<Booking> TGetBookingByUserId(int userId);
     }
 }

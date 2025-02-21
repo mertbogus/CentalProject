@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qD7PDZUpodLf7HxeupeaXu3DnkMUOR+clKEtvB7uFq0=",
+  "Hash": "sKecwvNN+K4A3QWXROux9MXBbW0R7gzmV9Pl28RYPkw=",
   "Source": "Cental.WebUI",
   "BasePath": "_content/Cental.WebUI",
   "Mode": "Default",
@@ -13035,6 +13035,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\784a9bd5-deb4-4f32-a597-5851bb55e81a.png"
+    },
+    {
+      "Identity": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Images\\949cb1f5-3ab5-42a4-9e10-01e457919e0f.png",
+      "SourceId": "Cental.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\",
+      "BasePath": "_content/Cental.WebUI",
+      "RelativePath": "Images/949cb1f5-3ab5-42a4-9e10-01e457919e0f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "585b5zti9e",
+      "Integrity": "yy/tHdCiZLm1T2EpDJIPwGB0orA5ptWqhQfFnM3Ij4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\949cb1f5-3ab5-42a4-9e10-01e457919e0f.png"
     },
     {
       "Identity": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\js\\site.js",
@@ -65083,6 +65104,88 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 19 Feb 2025 22:48:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yy/tHdCiZLm1T2EpDJIPwGB0orA5ptWqhQfFnM3Ij4A="
+        }
+      ]
+    },
+    {
+      "Route": "Images/949cb1f5-3ab5-42a4-9e10-01e457919e0f.585b5zti9e.png",
+      "AssetFile": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Images\\949cb1f5-3ab5-42a4-9e10-01e457919e0f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yy/tHdCiZLm1T2EpDJIPwGB0orA5ptWqhQfFnM3Ij4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 00:55:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "585b5zti9e"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/949cb1f5-3ab5-42a4-9e10-01e457919e0f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yy/tHdCiZLm1T2EpDJIPwGB0orA5ptWqhQfFnM3Ij4A="
+        }
+      ]
+    },
+    {
+      "Route": "Images/949cb1f5-3ab5-42a4-9e10-01e457919e0f.png",
+      "AssetFile": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\wwwroot\\Images\\949cb1f5-3ab5-42a4-9e10-01e457919e0f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yy/tHdCiZLm1T2EpDJIPwGB0orA5ptWqhQfFnM3Ij4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 00:55:24 GMT"
         },
         {
           "Name": "Cache-Control",

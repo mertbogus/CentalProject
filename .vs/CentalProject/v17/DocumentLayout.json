@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\CentalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\viewcomponents\\feature\\_uifeaturecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\viewcomponents\\feature\\_uifeaturecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\views\\shared\\components\\_uiprocesscomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\views\\shared\\components\\_uiprocesscomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|c:\\users\\mert\\source\\repos\\centalproject\\cental.webui\\todolist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F0A5E67-43CE-4E9A-85FE-36BD81DD5D47}|Cental.WebUI\\Cental.WebUI.csproj|solutionrelative:cental.webui\\todolist.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,41 +50,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_UIFeatureComponent.cs",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\ViewComponents\\Feature\\_UIFeatureComponent.cs",
-              "RelativeDocumentMoniker": "Cental.WebUI\\ViewComponents\\Feature\\_UIFeatureComponent.cs",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\ViewComponents\\Feature\\_UIFeatureComponent.cs",
-              "RelativeToolTip": "Cental.WebUI\\ViewComponents\\Feature\\_UIFeatureComponent.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:35:27.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\Shared\\Components\\_UIProcessComponent\\Default.cshtml",
-              "RelativeDocumentMoniker": "Cental.WebUI\\Views\\Shared\\Components\\_UIProcessComponent\\Default.cshtml",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\Shared\\Components\\_UIProcessComponent\\Default.cshtml",
-              "RelativeToolTip": "Cental.WebUI\\Views\\Shared\\Components\\_UIProcessComponent\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T00:27:49.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "Cental.WebUI\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "Cental.WebUI\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T00:27:33.824Z",
+              "Title": "ToDoList.txt",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\ToDoList.txt",
+              "RelativeDocumentMoniker": "Cental.WebUI\\ToDoList.txt",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\CentalProject\\Cental.WebUI\\ToDoList.txt",
+              "RelativeToolTip": "Cental.WebUI\\ToDoList.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-21T01:03:31.99Z",
               "EditorCaption": ""
             }
           ]

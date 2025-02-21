@@ -1,5 +1,7 @@
-﻿using Cental.BussinesLayer.Abstract;
+﻿using AutoMapper;
+using Cental.BussinesLayer.Abstract;
 using Cental.DataAccesLayer.Abstract;
+using Cental.DtoLayer.BookingDtos;
 using Cental.EntityLayer.Entities;
 using System;
 using System.Collections.Generic;
@@ -12,10 +14,12 @@ namespace Cental.BussinesLayer.Concrete
     public class BookingManager : IBookingService
     {
         private readonly IBookingDal _bookingDal;
+        private readonly IMapper _mapper;
 
-        public BookingManager(IBookingDal bookingDal)
+        public BookingManager(IBookingDal bookingDal, IMapper mapper)
         {
             _bookingDal = bookingDal;
+            _mapper = mapper;
         }
 
         public void TCreate(Booking entity)
@@ -31,6 +35,12 @@ namespace Cental.BussinesLayer.Concrete
         public List<Booking> TGetAll()
         {
             return _bookingDal.GetAll();
+        }
+
+        public List<ResultUserBookingListDto> TGetBookingUserById(int userId)
+        {
+            var values = _bookingDal.TGetBookingByUserId(userId);
+            return _mapper.Map<List<ResultUserBookingListDto>>(values);
         }
 
         public Booking TGetById(int id)

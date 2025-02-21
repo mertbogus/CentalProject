@@ -1,0 +1,32 @@
+﻿@model List<ResultUserBookingListDto>
+@{
+    ViewData["Title"] = "Kiralama Taleplerim";
+    Layout = "~/Areas/User/Views/UserLayout/Index.cshtml";
+    int count = 0;
+}
+
+<table class="table table-bordered">
+<tr>
+    <th>#</th>
+    <th>Araç Marka - Model</th>
+    <th>Teslim Alınacağı Yer</th>
+    <th>Teslim Bırakılacağı Yer</th>
+    <th>Alınacağı Tarih</th>
+    <th>Teslim Tarihi</th>
+</tr>
+@foreach (var item in Model)
+{
+    count++;
+    <tr>
+        <td>@count</td>
+        <td>@item.Cars.Brand.BrandName @item.Cars.ModelName </td>
+        <td>@item.BookingPickUp </td>
+        <td>@item.BookingDropOf </td>
+        <td>@item.BookingStartDate.ToString("dd/MM/yyyy") </td>
+        <td>@item.BookingLastDate.ToString("dd/MM/yyyy") </td>
+        <td><span class="badge bg-info text-white">@item.BookingStatus</span></td>
+    </tr>
+
+}
+</table>
+
