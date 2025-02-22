@@ -13,6 +13,7 @@
         <th>Teslim Bırakılacağı Yer</th>
         <th>Alınacağı Tarih</th>
         <th>Bırakılacağı Tarih</th>
+        <th>Kullanıcı İsim Soyisim</th>
         <th>Onay Durumu</th>
         <th>Onayla</th>
         <th>İptal Et</th>
@@ -27,6 +28,8 @@
             <td>@item.BookingDropOf </td>
             <td>@item.BookingStartDate.ToString("dd/MM/yyyy") </td>
             <td>@item.BookingLastDate.ToString("dd/MM/yyyy") </td>
+            <td>@item.User.FirstName @item.User.LastName </td>
+
             <td id="booking-status-@item.BookingId"><span class="badge bg-info text-white">@item.BookingStatus</span></td>
                 <td>
                     <form action="@Url.Action("CancelBooking", "AdminBooking")" method="post">

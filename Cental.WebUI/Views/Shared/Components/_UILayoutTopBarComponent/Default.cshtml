@@ -1,0 +1,31 @@
+﻿@using Cental.WebUI.ViewModels
+@model ContactSocialMediaViewModel
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<div class="container-fluid topbar bg-secondary d-none d-xl-block w-100">
+    <div class="container">
+        <div class="row gx-0 align-items-center" style="height: 45px;">
+            <div class="col-lg-6 text-center text-lg-start mb-lg-0">
+                @foreach (var item in Model.Contacts)
+                {
+
+                    <div class="d-flex flex-wrap">
+                        <a href="#" class="text-muted me-4"><i class="fas fa-map-marker-alt text-primary me-2"></i>Konum Bul</a>
+                        <a href="tel:+@item.Telephone" class="text-muted me-4"><i class="fas fa-phone-alt text-primary me-2"></i>+@item.Telephone</a>
+                        <a href="@item.Mail" class="text-muted me-0"><i class="fas fa-envelope text-primary me-2"></i>@item.Mail</a>
+                    </div>
+                }
+            </div>
+            <div class="col-lg-6 text-center text-lg-end">
+                <div class="d-flex align-items-center justify-content-end">
+                    @foreach (var item2 in Model.Socials)
+                    {
+                        <a href="@item2.SocialMediaUrl" class="btn btn-light btn-sm-square rounded-circle me-3"><i class="@item2.SocialMediaİcon.Replace("text-white", "").Trim()"></i></a>
+
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

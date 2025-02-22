@@ -4,6 +4,12 @@
     Layout = "~/Views/UILayout/Index.cshtml";
 }
 
+<!-- TopBar Start -->
+@await Component.InvokeAsync("_UILayoutTopBarComponent")
+<!-- TopBar End -->
+<!-- Navbar Start -->
+@await Component.InvokeAsync("_UILayoutNavbarComponent")
+<!-- Navbar End -->
 <!-- Booking Start -->
 @await Component.InvokeAsync("_UIBookingComponent")
 <!-- Booking  End -->
@@ -34,4 +40,4 @@
 <!-- Testimonial Start -->
 @await Component.InvokeAsync("_UITestimonialComponent")
 <!-- Testimonial End -->
-
+@await Component.InvokeAsync("_UILayoutFooterComponent")

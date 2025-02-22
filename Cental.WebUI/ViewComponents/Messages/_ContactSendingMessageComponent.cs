@@ -3,7 +3,7 @@
 namespace Cental.WebUI.ViewComponents.Contact
 {
    
-    public class _ContactSendingMessageComponent : ViewComponent
+    public class _MessageSendingMessageComponent : ViewComponent
     {
         public IViewComponentResult Invoke()
         {

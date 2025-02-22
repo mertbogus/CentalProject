@@ -44,6 +44,15 @@ namespace Cental.BussinesLayer.Extensions
 
             services.AddScoped<IProcessService, ProcessManager>();
             services.AddScoped<IProcessDal, EfProcessDal>();
+
+            services.AddScoped<IMessagesService, MessagesManager>();
+            services.AddScoped<IMessagesDal, EfMessagesDal>();
+
+            services.AddScoped<IContactService, ContactManager>();
+            services.AddScoped<IContactDal, EfContactManager>();
+
+            services.AddScoped<ISocialMediaService, SocialMediaManager>();
+            services.AddScoped<ISocialMediaDal, EfSocialMediaDal>();
         }
     }
 }

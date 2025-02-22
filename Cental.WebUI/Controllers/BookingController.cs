@@ -22,8 +22,12 @@ namespace Cental.WebUI.Controllers
             var bookings=_mapper.Map<Booking>(createBookingDto);
             bookings.BookingStatus = "Onay Bekliyor";
             var users= await _userManager.FindByNameAsync(User.Identity.Name);
-            bookings.UserId = users.Id;
-            _bookingService.TCreate(bookings);
+            if (users.Id!=0)
+            {
+                bookings.UserId = users.Id;
+                _bookingService.TCreate(bookings);
+                return NoContent();
+            }
             return NoContent();
         }
     }

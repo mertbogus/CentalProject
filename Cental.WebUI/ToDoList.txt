@@ -1,29 +1,17 @@
 ﻿
 
 Default/Index içindeki tüm bölümler viewcomponent yapısına çevrilecek ve dinamik hale getirilecek.
-Footer içerisinden Subscribe kısmı olacak. Abone ol kısmı olacak.
-Footer alanı dinamik hale getirilecek.
-Topbar kısmı dinamik hale getirilecek.
 
 Admin tarafında Tüm tabloların listelenmesi ve CRUD işlemleri yapılacak.
-Admin tarafında Dashboard alanı olacak ve istatistik bilgileri getirilecek.
-istatistik altında son eklenen araçlar (6 adet) ve son gelen kiralama talepleri (5 adet) listelenecek.)
-
-
-Admin Gelen mesajları okusun. 
 
 
 Araçlara yorum ve puan verme kısmı olsun. 
 
 UI LAyout Navbar içerisinden tüm sayfalara erişim sağlanacak.
-Giriş Yap, ve kayıt ol kısmı navbar içerisinde olacak.
-
-Counter içerisine istatistik bilgileri getirilecek. 
 
 
 
 
-User Paneli içinde araç kiralama durumlarını görecek. 
 
 
 

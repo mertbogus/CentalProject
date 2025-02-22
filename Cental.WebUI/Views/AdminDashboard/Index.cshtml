@@ -1,0 +1,293 @@
+﻿@model Cental.WebUI.ViewModels.CarBookingViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <!-- [ Main Content ] start -->
+    <div class="col-lg-12">
+        <div class="pcoded-content">
+            <!-- [ breadcrumb ] start -->
+            <div class="page-header">
+                <div class="page-block">
+                    <div class="row align-items-center">
+                    </div>
+                </div>
+            </div>
+            <!-- [ breadcrumb ] end -->
+            <!-- [ Main Content ] start -->
+            <div class="row">
+                <!-- table card-1 start -->
+                <div class="col-md-12 col-xl-6">
+                    <div class="card flat-card">
+                        <div class="row-table">
+                            <div class="col-sm-6 card-body br">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-eye text-c-green mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.Totalcars</h5>
+                                        <span>Toplam Araç Sayısı</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 card-body">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-music text-c-red mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.Totaldieselcount</h5>
+                                        <span>Toplam Benzinli Araç Sayısı</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row-table">
+                            <div class="col-sm-6 card-body br">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-file-text text-c-blue mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.TotalPetrolcount</h5>
+                                        <span>Benzinli Araç Sayısı</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 card-body">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-mail text-c-yellow mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.TotalGearOtomaticcount</h5>
+                                        <span>Otomatik Vites Araç Sayısı</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- widget primary card start -->
+                    <div class="card flat-card widget-primary-card">
+                        <div class="row-table">
+                            <div class="col-sm-3 card-body">
+                                <i class="feather icon-star-on"></i>
+                            </div>
+                            <div class="col-sm-9">
+                                <h4>@ViewBag.TotalBrands</h4>
+                                <h6>Toplam Marka</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- widget primary card end -->
+                </div>
+                <!-- table card-1 end -->
+                <!-- table card-2 start -->
+                <div class="col-md-12 col-xl-6">
+                    <div class="card flat-card">
+                        <div class="row-table">
+                            <div class="col-sm-6 card-body br">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-share-2 text-c-blue mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.TotalBooking</h5>
+                                        <span>Toplam Kiralama Talebi</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 card-body">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-wifi text-c-blue mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.TotalSuccesBooking</h5>
+                                        <span>Toplam Onaylanan Talep Sayısı</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row-table">
+                            <div class="col-sm-6 card-body br">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-rotate-ccw text-c-blue mb-1 d-block"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.TotalCancelBooking</h5>
+                                        <span>Toplam İptal Edilen Araç Sayısı</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 card-body">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <i class="icon feather icon-shopping-cart text-c-blue mb-1 d-blockz"></i>
+                                    </div>
+                                    <div class="col-sm-8 text-md-center">
+                                        <h5>@ViewBag.TotalPendingApprovalBooking</h5>
+                                        <span>Toplam Bekleyen Kiralama Sayısı</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- widget-success-card start -->
+                    <div class="card flat-card widget-purple-card">
+                        <div class="row-table">
+                            <div class="col-sm-3 card-body">
+                                <i class="fas fa-trophy"></i>
+                            </div>
+                            <div class="col-sm-9">
+                                <h4>17</h4>
+                                <h6>Achievements</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- widget-success-card end -->
+                </div>
+                <!-- table card-2 end -->
+                <!-- prject ,team member start -->
+                <div class="col-xl-6 col-md-12">
+                    <div class="card table-card">
+                        <div class="card-header">
+                            <h5>Son Eklenen Arabalar</h5>
+                            <div class="card-header-right">
+                                <div class="btn-group card-option">
+                                    <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <i class="feather icon-more-horizontal"></i>
+                                    </button>
+                                    <ul class="list-unstyled card-option dropdown-menu dropdown-menu-right">
+                                        <li class="dropdown-item full-card"><a href="#!"><span><i class="feather icon-maximize"></i> maximize</span><span style="display:none"><i class="feather icon-minimize"></i> Restore</span></a></li>
+                                        <li class="dropdown-item minimize-card"><a href="#!"><span><i class="feather icon-minus"></i> collapse</span><span style="display:none"><i class="feather icon-plus"></i> expand</span></a></li>
+                                        <li class="dropdown-item reload-card"><a href="#!"><i class="feather icon-refresh-cw"></i> reload</a></li>
+                                        <li class="dropdown-item close-card"><a href="#!"><i class="feather icon-trash"></i> remove</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-body p-0">
+                            <div class="table-responsive">
+                                <table class="table table-hover mb-0">
+                                    <thead>
+                                        <tr>
+                                            <th>Marka-Model</th>
+                                            <th>Model Yılı</th>
+                                            <th>Kilometre</th>
+                                            <th class="text-right">Vites Türü</th>
+                                            <th class="text-right">Benzin Türü</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model.Cars)
+                                        {
+                                            
+                                        
+                                        <tr>
+                                            <td>
+                      
+                                                <div class="d-inline-block align-middle">
+                                                    <div class="d-inline-block">
+                                                        <h6> @item.Brand.BrandName @item.ModelName</h6>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td>@item.Year</td>
+                                            <td>@item.Kilometer</td>
+                                            <td>@item.GearType</td>
+                                            <td class="text-right">@item.GasType</td>
+                                        </tr>
+                                        }
+       
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- prject ,team member start -->
+                <!-- prject ,team member start -->
+                <div class="col-xl-6 col-md-12">
+                    <div class="card table-card">
+                        <div class="card-header">
+                            <h5>Son Kiralama Talepleri</h5>
+                            <div class="card-header-right">
+                                <div class="btn-group card-option">
+                                    <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <i class="feather icon-more-horizontal"></i>
+                                    </button>
+                                    <ul class="list-unstyled card-option dropdown-menu dropdown-menu-right">
+                                        <li class="dropdown-item full-card"><a href="#!"><span><i class="feather icon-maximize"></i> maximize</span><span style="display:none"><i class="feather icon-minimize"></i> Restore</span></a></li>
+                                        <li class="dropdown-item minimize-card"><a href="#!"><span><i class="feather icon-minus"></i> collapse</span><span style="display:none"><i class="feather icon-plus"></i> expand</span></a></li>
+                                        <li class="dropdown-item reload-card"><a href="#!"><i class="feather icon-refresh-cw"></i> reload</a></li>
+                                        <li class="dropdown-item close-card"><a href="#!"><i class="feather icon-trash"></i> remove</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-body p-0">
+                            <div class="table-responsive">
+                                <table class="table table-hover mb-0">
+                                    <thead>
+                                        <tr>
+                                            <th>Alınacak Yer</th>
+                                            <th>Bırakılacak Yer</th>
+                                            <th>Alınacağı Tarih</th>
+                                            <th>Bırakılacağı Tarih</th>
+                                            <th>Kullanıcı Adı ve Soyadı</th>
+                                            <th>Durum</th>
+                                            <th class="text-right">Araba</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item2 in Model.Bookings)
+                                        {
+
+
+                                            <tr>
+                                                <td>
+
+                                                    <div class="d-inline-block align-middle">
+                                                        <div class="d-inline-block">
+                                                            <h6> @item2.BookingPickUp</h6>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>@item2.BookingDropOf</td>
+                                                <td>@item2.BookingStartDate.ToString("dd/MM/yyyy")</td>
+                                                <td>@item2.BookingLastDate.ToString("dd/MM/yyyy")</td>
+                                                <td>@item2.User.FirstName @item2.User.LastName </td>
+                                                <td>@item2.BookingStatus</td>
+                                                <td class="text-right">@item2.Cars.ModelName</td>
+                                            </tr>
+                                        }
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- prject ,team member start -->
+
+            </div>
+            <!-- [ Main Content ] end -->
+        </div>
+    </div>
+    <!-- [ Main Content ] end -->
+    <!-- Apex Chart -->
+    <script src="assets/js/plugins/apexcharts.min.js"></script>
+
+    <!-- custom-chart js -->
+    <script src="assets/js/pages/dashboard-main.js"></script>
+</body>
+</html>
+
+

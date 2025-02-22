@@ -2,12 +2,13 @@
 using Cental.BussinesLayer.Abstract;
 using Cental.DtoLayer.BookingDtos;
 using Cental.DtoLayer.BrandsDtos;
+using Cental.EntityLayer.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Cental.WebUI.Controllers
 {
-    [Authorize(Roles = "Manager")]
+    [Authorize(Roles = "Admin")]
     public class AdminBookingController(IBookingService _bookingService, IMapper _mapper) : Controller
     {
         public IActionResult Index()

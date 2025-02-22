@@ -28,4 +28,8 @@
     <Folder Include="wwwroot\Images\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="ViewComponents\UILayout\_UILayoutFooterComponent.cs" />
+  </ItemGroup>
+
 </Project>

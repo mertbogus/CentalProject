@@ -1,0 +1,145 @@
+﻿@model List<ResultMessageDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Layout.cshtml";
+    int count = 0;
+}
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mesaj Listesi</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Stil için CSS */
+        .message-content {
+            display: inline-block;
+            max-width: 250px; /* Mesajın genişliği */
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            cursor: pointer; /* Tıklanabilir hale getirdik */
+        }
+
+            .message-content:hover {
+                background-color: #f8f9fa;
+                border-radius: 5px;
+            }
+
+        .modal-content {
+            padding: 20px;
+        }
+
+        .table th, .table td {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        .badge-info {
+            background-color: #17a2b8;
+        }
+
+        .badge-success {
+            background-color: #28a745;
+        }
+
+        .badge-danger {
+            background-color: #dc3545;
+        }
+    </style>
+</head>
+<body>
+    <div class="container my-5">
+        <h2 class="text-center mb-4">Mesajlar</h2>
+
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Adı Soyadı</th>
+                    <th>Mail</th>
+                    <th>Konu</th>
+                    <th>Mesaj İçeriği</th>
+                    <th>Mesaj Okunma Durumu</th>
+                    <th>Okundu</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.MessageId</td>
+                        <td>@item.NameandSurName</td>
+                        <td>@item.Email</td>
+                        <td>@item.Subject</td>
+                        <td>
+                            <span class="message-content" data-bs-toggle="modal" data-bs-target="#messageModal"
+                                  data-message="@item.MessageContent">
+                                @if (item.MessageContent.Length > 50)
+                                {
+                                    @item.MessageContent.Substring(0, 50)
+                                    
+                                            }
+                                else
+                                {
+                                    @item.MessageContent
+                                }
+                            </span>
+                        </td>
+                        <td>
+                            @if (item.MessageStatus == true)
+                            {
+                                <span class="badge badge-success">@item.MessageStatus</span>
+                            }
+                            else
+                            {
+                                <span class="badge badge-danger">@item.MessageStatus</span>
+                            }
+                        </td>
+                        <td>
+                            <form action="@Url.Action("ReadMessage", "AdminMessages")" method="post">
+                                <input type="hidden" name="MessageId" value="@item.MessageId" />
+                                <button type="submit" class="btn btn-sm btn-info">Okundu</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="messageModal" tabindex="-1" aria-labelledby="messageModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="messageModalLabel">Mesaj İçeriği</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p id="messageContent"></p> <!-- Mesajın tamamı buraya yüklenecek -->
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS ve Popper.js -->
+    <script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+
+    <script>
+        // Mesaj içeriğini modal'e yüklemek
+        var messageContentElements = document.querySelectorAll('.message-content');
+        messageContentElements.forEach(function (element) {
+            element.addEventListener('click', function () {
+                var message = this.getAttribute('data-message');
+                document.getElementById('messageContent').textContent = message;
+            });
+        });
+    </script>
+</body>
+</html>

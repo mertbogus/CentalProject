@@ -333,6 +333,37 @@ namespace Cental.DataAccesLayer.Migrations
                     b.ToTable("Cars");
                 });
 
+            modelBuilder.Entity("Cental.EntityLayer.Entities.Contact", b =>
+                {
+                    b.Property<int>("ContactId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ContactId"));
+
+                    b.Property<string>("AboutUs")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Address")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Mail")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("OpeningHours")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Telephone")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ContactId");
+
+                    b.ToTable("Contacts");
+                });
+
             modelBuilder.Entity("Cental.EntityLayer.Entities.Feature", b =>
                 {
                     b.Property<int>("FeatureId")
@@ -356,6 +387,38 @@ namespace Cental.DataAccesLayer.Migrations
                     b.HasKey("FeatureId");
 
                     b.ToTable("Features");
+                });
+
+            modelBuilder.Entity("Cental.EntityLayer.Entities.Message", b =>
+                {
+                    b.Property<int>("MessageId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("MessageId"));
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MessageContent")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("MessageStatus")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("NameandSurName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Subject")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("MessageId");
+
+                    b.ToTable("Messages");
                 });
 
             modelBuilder.Entity("Cental.EntityLayer.Entities.Process", b =>
@@ -423,6 +486,31 @@ namespace Cental.DataAccesLayer.Migrations
                     b.HasKey("ServiceId");
 
                     b.ToTable("Services");
+                });
+
+            modelBuilder.Entity("Cental.EntityLayer.Entities.SocialMedia", b =>
+                {
+                    b.Property<int>("SocialMediaId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SocialMediaId"));
+
+                    b.Property<string>("SocialMediaName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SocialMediaUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SocialMediaİcon")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("SocialMediaId");
+
+                    b.ToTable("SocialMedias");
                 });
 
             modelBuilder.Entity("Cental.EntityLayer.Entities.Testimonial", b =>
