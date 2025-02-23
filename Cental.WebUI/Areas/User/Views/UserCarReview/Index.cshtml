@@ -1,0 +1,49 @@
+﻿@model List<ResultReviewDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/User/Views/UserLayout/Index.cshtml";
+}
+
+<div class="container py-5">
+    <h2 class="text-center mb-4">Puan Listesi</h2>
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Puan</th>
+                    <th>Yorum</th>
+                    <th>Araba Marka - Model</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var review in Model)
+                {
+                    <tr>
+                        <td>@review.ReviewId</td>
+                        <td>
+                            <!-- Yıldızlı derecelendirme -->
+                            @for (int i = 1; i <= 5; i++)
+                            {
+                                if (i <= review.Rating)
+                                {
+                                    <i class="fas fa-star text-warning"></i> <!-- Doldurulmuş yıldız -->
+                                }
+                                else
+                                {
+                                    <i class="fas fa-star text-muted"></i> <!-- Boş yıldız -->
+                                }
+                            }
+                        </td>
+                        <td>@review.Comments</td>
+                        <td>@review.Car.Brand.BrandName @review.Car.ModelName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="text-center mt-4">
+        <a href="@Url.Action("CreateReview", "UserCarReview")" class="btn btn-primary">Yeni Puan Ver</a>
+    </div>
+</div>
+

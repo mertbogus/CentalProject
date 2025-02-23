@@ -44,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xNYW5hZ2VyUHJvZmlsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/Manager/Views/ManagerReview/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xNYW5hZ2VyUmV2aWV3XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/Manager/Views/MySocial/CreateSocials.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xNeVNvY2lhbFxDcmVhdGVTb2NpYWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -74,6 +78,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/User/Views/UserBooking/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xVc2VyQm9va2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/User/Views/UserCarReview/CreateReview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xVc2VyQ2FyUmV2aWV3XENyZWF0ZVJldmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/User/Views/UserCarReview/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xVc2VyQ2FyUmV2aWV3XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Areas/User/Views/UserLayout/Index.cshtml]
@@ -126,6 +138,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminCar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminContact/CreateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XENyZWF0ZUNvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminContact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminContact/UpdateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XFVwZGF0ZUNvbnRhY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/AdminDashboard/Index.cshtml]
@@ -202,6 +226,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Cars/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Default/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MERT/source/repos/CentalProject/Cental.WebUI/Views/Default/Index.cshtml]

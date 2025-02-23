@@ -8,7 +8,7 @@ namespace Cental.DtoLayer.ContactDtos
 {
     public class ResultListUIContactDto
     {
-
+     
         public string Address { get; set; }
 
         public string Mail { get; set; }

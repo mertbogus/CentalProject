@@ -53,6 +53,10 @@ namespace Cental.BussinesLayer.Extensions
 
             services.AddScoped<ISocialMediaService, SocialMediaManager>();
             services.AddScoped<ISocialMediaDal, EfSocialMediaDal>();
+
+
+            services.AddScoped<IReviewService, ReviewManager>();
+            services.AddScoped<IReviewDal, EfReviewDal>();
         }
     }
 }

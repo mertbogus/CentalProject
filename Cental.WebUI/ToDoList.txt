@@ -1,14 +1,5 @@
 ﻿
 
-Default/Index içindeki tüm bölümler viewcomponent yapısına çevrilecek ve dinamik hale getirilecek.
-
-Admin tarafında Tüm tabloların listelenmesi ve CRUD işlemleri yapılacak.
-
-
-Araçlara yorum ve puan verme kısmı olsun. 
-
-UI LAyout Navbar içerisinden tüm sayfalara erişim sağlanacak.
-
 
 
 

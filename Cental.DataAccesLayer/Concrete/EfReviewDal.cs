@@ -15,5 +15,10 @@ namespace Cental.DataAccesLayer.Concrete
         public EfReviewDal(CentalContext context) : base(context)
         {
         }
+
+        public List<Review> TGetReviewsUserById(int userId)
+        {
+            return _context.Reviews.Where(x=> x.UserId == userId).ToList();
+        }
     }
 }

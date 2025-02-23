@@ -1,0 +1,36 @@
+﻿@model CreateReviewDto
+@{
+    ViewData["Title"] = "Arabaya Puan Ver";
+    Layout = "~/Areas/User/Views/UserLayout/Index.cshtml";
+}
+
+<div class="container py-5">
+    <h2 class="text-center mb-4">Puan Ver</h2>
+    <form asp-action="CreateReview" asp-controller="UserCarReview" method="post">
+        <div class="form-group mb-4">
+            <label for="Rating" class="form-label">Puanlar</label>
+            <select id="Rating" name="Rating" class="form-control">
+                <option value="1">1 - Çok Kötü</option>
+                <option value="2">2 - Kötü</option>
+                <option value="3">3 - Orta</option>
+                <option value="4">4 - İyi</option>
+                <option value="5">5 - Mükemmel</option>
+            </select>
+        </div>
+
+        <div class="form-group mb-4">
+            <label for="Comments" class="form-label">Yorumunuz</label>
+            <textarea asp-for="Comments" class="form-control" id="Comments" rows="3"></textarea>
+            <span asp-validation-for="Comments" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-4">
+            <label for="CarId" class="form-label">Kiraladığınız Arabalar</label>
+            <select asp-for="CarId" class="form-control" asp-items="ViewBag.UserCars"></select>
+            <span asp-validation-for="CarId" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Kaydet</button>
+    </form>
+</div>
+
+

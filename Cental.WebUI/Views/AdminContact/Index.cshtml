@@ -1,0 +1,33 @@
+﻿@model List<ResultListContactDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Layout.cshtml";
+    int count = 0;
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Adres</th>
+        <th>Mail</th>
+        <th>Telefone</th>
+        <th>Açılış - Kapanış Saati</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        count++;
+        <tr>
+            <td>@count</td>
+            <td>@item.Address</td>
+            <td>@item.Mail</td>
+            <td>@item.Telephone</td>
+            <td>@item.OpeningHours</td>
+            <td><a asp-action="DeleteContact" asp-route-id="@item.ContactId" class="btn btn-danger"> <i class="fa fa-trash"></i> Sil</a></td>
+            <td><a asp-action="UpdateContact" asp-route-id="@item.ContactId" class="btn btn-info"> <i class="fa fa-pen"></i> Güncelle</a></td>
+        </tr>
+    }
+</table>
+
+<a asp-action="CreateContact" asp-controller="AdminContact" class="btn btn-primary mt-1"><i class="fa fa-plus-circle"></i> Yeni İşlemler Ekle</a>

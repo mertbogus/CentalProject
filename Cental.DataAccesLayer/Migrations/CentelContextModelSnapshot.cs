@@ -453,12 +453,24 @@ namespace Cental.DataAccesLayer.Migrations
                     b.Property<int>("CarId")
                         .HasColumnType("int");
 
+                    b.Property<string>("Comments")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("Rating")
+                        .HasColumnType("int");
+
+                    b.Property<bool?>("ShowComments")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("UserId")
                         .HasColumnType("int");
 
                     b.HasKey("ReviewId");
 
                     b.HasIndex("CarId");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Reviews");
                 });
@@ -716,7 +728,15 @@ namespace Cental.DataAccesLayer.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("Cental.EntityLayer.Entities.AppUser", "User")
+                        .WithMany("Reviews")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("Car");
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("Cental.EntityLayer.Entities.UserSocial", b =>
@@ -784,6 +804,8 @@ namespace Cental.DataAccesLayer.Migrations
             modelBuilder.Entity("Cental.EntityLayer.Entities.AppUser", b =>
                 {
                     b.Navigation("Bookings");
+
+                    b.Navigation("Reviews");
 
                     b.Navigation("UserSocials");
                 });
