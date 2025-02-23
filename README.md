@@ -1,6 +1,21 @@
 # Cental Projesi
 Bu proje, kullanıcıların araba kiralama işlemlerini daha hızlı ve kolay bir şekilde gerçekleştirebilmeleri için mobil uyumlu olarak tasarlanmıştır. Kullanıcılar, anasayfa üzerinden giriş yaparak istedikleri arabaları inceleyebilir, kiralama işlemi yapabilir, site yetkilisi ile iletişime geçebilir, yönetici bilgilerine ulaşabilir ve sosyal medya hesaplarına erişim sağlayabilirler. Kısacası, bir rent-a-car sitesinde bulunması gereken tüm özellikler projede yer almaktadır. Proje 3 panelden oluşmaktadır. Şimdi projemizin detaylarına göz atalım.
 
+## Kullanılan Teknolojiler - Kütüpnaler - Yapılar
+- Asp.Net Core 8.0
+- İdentity
+- Automapper
+- Katmanlı Mimari
+- MVC
+- SweertAlert
+- ViewComponents
+- ViewModel
+- Entity Framework
+- Area
+- PagedList
+- FluentValidation
+
+
 ## Kullanıcı Paneli
 Kullanıcı paneli üzerinden yapılabilecek işlemler şunlardır:
 - Kullanıcı anasayfa üzerinden istediği araba için kiralama talebi oluşturabilir.
@@ -34,8 +49,24 @@ Kullanıcı paneli üzerinden yapılabilecek işlemler şunlardır:
 
 ## AnaSayfa Görselleri
 
+![1](https://github.com/user-attachments/assets/8cb68568-7f9a-46cc-8d4a-9ccc1ff3034b)
+![2](https://github.com/user-attachments/assets/39778561-c2c8-4649-8ca1-7c3afaea2543)
+![3](https://github.com/user-attachments/assets/09012176-bf82-498d-a006-265f146bf19f)
+![4](https://github.com/user-attachments/assets/b88056e8-a511-4b76-a93b-ebe0d23e9af3)
 
-
+![5](https://github.com/user-attachments/assets/7a3ed684-4eb5-404d-bccd-526485db1b73)
+![6](https://github.com/user-attachments/assets/d92357e7-b2f1-4f33-9326-ca4b4c4b2217)
+![7](https://github.com/user-attachments/assets/6ea9e419-3c2d-478e-9a57-ba6802f8ccca)
+![8](https://github.com/user-attachments/assets/dc80ffbf-d6f8-4df6-a72d-1d2c6276f2a5)
+![9](https://github.com/user-attachments/assets/68b900ff-9e09-4ed6-ab27-f79536396727)
+![10](https://github.com/user-attachments/assets/16e5bbe9-9c73-40e3-8d33-d88260f1aa4f)
+![11](https://github.com/user-attachments/assets/7ed49243-edea-4fa0-a478-cefdde1413f3)
+![12](https://github.com/user-attachments/assets/da687d36-e12b-4eca-9fed-8904f06cd144)
+![13](https://github.com/user-attachments/assets/7897cc8e-b081-4c1d-b2c3-cff29b27863f)
+![403](https://github.com/user-attachments/assets/49956dde-eb6e-41b6-abcf-e1f9137bbf6a)
+![404](https://github.com/user-attachments/assets/15f620f8-38d0-44de-9e92-18daa71ae164)
+![login](https://github.com/user-attachments/assets/53d71626-6436-4952-9342-6db40b031774)
+![kayıt](https://github.com/user-attachments/assets/cbe0f3e5-61b6-4c58-8ecc-851e9752948f)
 
 ## Admin Paneli Görselleri
 ![rollist](https://github.com/user-attachments/assets/bf601a8b-a236-4a58-90a6-58a4f98c7bdf)
